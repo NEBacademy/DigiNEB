@@ -5,7 +5,7 @@ variation: vertical
 features:
     -
         title: Tools
-        text: 'Digital Tools'
+        text: 'A collection of Databases of Digital Tools for Architects, Designers and Communities'
         icon: tabler/tools.svg
         link: /digital-innovation/_outputs/tools
     -
