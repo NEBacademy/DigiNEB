@@ -20,7 +20,7 @@ features:
         link: /digital-innovation/_outputs/e-learning
     -
         title: 'Open Licences'
-        text: 'Collections of Open Licenses for Data and Content that can be freely used, modified, and shared by Anyone for any Purpose'
+        text: 'Collections of Open Licenses for Data and Content that can be freely used, modified, and shared'
         icon: tabler/creative-commons.svg
         link: /digital-innovation/_outputs/licences
 section_classes: 'bg-white dark:bg-gray-900 py-8 md:py-12'
