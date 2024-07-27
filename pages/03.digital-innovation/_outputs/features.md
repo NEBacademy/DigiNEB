@@ -5,7 +5,7 @@ variation: vertical
 features:
     -
         title: Tools
-        text: null
+        text: 'Digital Tools'
         icon: tabler/tools.svg
         link: /digital-innovation/_outputs/tools
     -
