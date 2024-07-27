@@ -23,5 +23,6 @@ features:
         text: null
         icon: tabler/creative-commons.svg
         link: /digital-innovation/_outputs/licences
+section_classes: 'bg-white dark:bg-gray-900 py-8 md:py-12'
 ---
 
