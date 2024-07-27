@@ -10,7 +10,7 @@ features:
         link: /digital-innovation/_outputs/tools
     -
         title: Projects
-        text: 'A collection of databases with projects that develop digital tools or innovations that can support the objectives of the New European Bauhaus: beautiful, sustainable and together.'
+        text: 'A collection of databases with projects that develop digital tools or innovations that can support the objectives of NEB'
         icon: tabler/artboard.svg
         link: /digital-innovation/_outputs/projects
     -
