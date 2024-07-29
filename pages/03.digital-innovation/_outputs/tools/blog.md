@@ -20,7 +20,7 @@ content:
         - '@self.children'
     limit: 10
     order:
-        by: date
+        by: random
         dir: desc
 feed:
     limit: 10
