@@ -1,7 +1,7 @@
 ---
-title: TOI-Pedia
+title: DigiPedia
 continue_link: true
-link: 'http://wiki.bk.tudelft.nl/toi-pedia/Browse_by_Software'
+link: 'https://digipedia.tudelft.nl/software/'
 hero:
     image: toi-pedia_super.png
 sitemap:
