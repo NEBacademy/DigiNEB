@@ -3,6 +3,8 @@ title: 'DigiNEB Thematical Digital Technical Working Group '
 sitemap:
     lastmod: '01-08-2024 13:06'
 media_order: 'DFG 1.png'
+hero:
+    image: 'DFG 1.png'
 ---
 
 The first DigiNEB Thematical Digital Technical Working Group was held on the 30th of July '24. 
