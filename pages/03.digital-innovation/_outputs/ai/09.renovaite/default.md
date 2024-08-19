@@ -2,6 +2,7 @@
 title: RenovAIte
 sitemap:
     lastmod: '19-08-2024 10:29'
+media_order: renovaite_logo.png
 ---
 
 ### [RenovAIte] (https://renovaite.eu/who-we-are/)
