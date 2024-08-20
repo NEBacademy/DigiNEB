@@ -33,7 +33,7 @@ hero:
         text: DigiNEB
     content: "---\n## digiNEB supports the community of the New European Bauhaus (NEB) with digital solutions, projects and tools."
     height: 60vh
-    subtitle: '<br /><br /><br /><br />'
+    subtitle: '<br /><br /><br /><br /><br /><br /><br /><br />'
 media_order: 'timber_on_top_d-1.jpg,paul-cocksedge-time-loop.png,home.webp'
 published: true
 ---
