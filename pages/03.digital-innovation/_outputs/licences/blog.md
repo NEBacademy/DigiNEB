@@ -8,7 +8,7 @@ hero:
     subtitle: '<br /><br /><br /><br />'
     overlay_gradient:
         - '0.8'
-        - '0.3'
+        - '0.1'
     overlay_direction: right
 root_of_blog: true
 content:
