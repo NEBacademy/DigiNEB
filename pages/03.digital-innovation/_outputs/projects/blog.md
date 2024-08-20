@@ -1,6 +1,6 @@
 ---
 title: Projects
-media_order: HEU.jpg
+media_order: projects.webp
 hero:
     image: HEU.jpg
     height: 60vh
@@ -19,7 +19,7 @@ content:
         - '@self.children'
     limit: 10
     order:
-        by: random
+        by: folder
         dir: desc
 feed:
     limit: 10
