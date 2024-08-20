@@ -14,6 +14,7 @@ hero:
             link: digital-innovation/_outputs/project-listing
             classes: 'bg-primary text-white hover:text-black'
     overlay_direction: right
+    subtitle: '<br /><br /><br /><br />'
 root_of_blog: true
 content:
     items:
