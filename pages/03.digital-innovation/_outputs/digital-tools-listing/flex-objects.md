@@ -2,7 +2,7 @@
 title: 'Digital tools listing'
 flex:
     directory: toolkit
-media_order: 'digitools.jpg,paul-cocksedge-time-loop.jpg'
+media_order: tools.webp
 hero:
     image: digitools.jpg
     height: 60vh
