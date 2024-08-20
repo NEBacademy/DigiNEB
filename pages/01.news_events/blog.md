@@ -25,7 +25,7 @@ header_bar:
     text: auto
 hero:
     image: home.webp
-    overlay_direction: bottom
+    overlay_direction: right
     overlay_gradient:
         - '0.8'
         - '0.1'
