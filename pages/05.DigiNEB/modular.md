@@ -5,6 +5,7 @@ hero:
         - '0.8'
         - '0.1'
     height: 45vh
+    image: outreach.webp
 onpage_menu: false
 header_bar:
     background: transparent
