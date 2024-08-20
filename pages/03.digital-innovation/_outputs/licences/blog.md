@@ -2,10 +2,11 @@
 title: 'Open licences'
 media_order: licenses.webp
 hero:
-    image: cc-by-icons-gradient.jpg
+    image: licenses.webp
     overlay: none
     height: 60vh
     content: '## Collections of open licenses for data and content that can be freely used, modified, and shared by anyone for any purpose.'
+    subtitle: '<br /><br /><br /><br />'
 root_of_blog: true
 content:
     items:
