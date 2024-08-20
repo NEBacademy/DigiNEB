@@ -22,6 +22,6 @@ features:
         text: 'Collections of Open Licenses for Data and Content that can be freely used, modified, and shared'
         icon: tabler/creative-commons.svg
         link: /digital-innovation/_outputs/licences
-section_classes: 'bg-white dark:bg-gray-900 py-8 md:py-12'
+section_classes: 'bg-white dark:bg-gray-900 py-8 md:py-6'
 ---
 
