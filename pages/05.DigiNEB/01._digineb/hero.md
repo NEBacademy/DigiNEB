@@ -5,7 +5,7 @@ hero:
     overlay_gradient:
         - '0.8'
         - '0.1'
-    height: 60vh
+    height: 45vh
 media_order: 'digiNEB_logo.png,digiNEB_logoo.png,digiNEB_logo_splash.webp'
 title: DigiNEB
 ---
