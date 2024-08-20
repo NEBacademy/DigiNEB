@@ -24,6 +24,7 @@ features:
         icon: tabler/wood.svg
         link: /digineb/_partners/innovawood
 title_text: auto
+section_classes: 'bg-white dark:bg-gray-900 py-8 md:py-12'
 ---
 
 Four great partners jointly working on digital solutions for the New European Bauhaus
