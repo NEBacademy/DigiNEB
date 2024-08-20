@@ -12,7 +12,7 @@ content:
 feed:
     limit: 10
 hero:
-    image: e-learning.png
+    image: e-learning.webp
     height: 60vh
     overlay: dark
     overlay_gradient:
