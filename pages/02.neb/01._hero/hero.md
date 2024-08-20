@@ -6,7 +6,7 @@ hero:
     image: neb.jpg
     height: 60vh
     overlay: none
-    content: "---\n## New European Bauhaus\n"
+    content: '## New European Bauhaus'
 media_order: neb.jpg
 ---
 
