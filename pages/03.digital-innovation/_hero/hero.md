@@ -4,7 +4,7 @@ body_classes: modular
 hero:
     image: digital.webp
     height: 60vh
-    content: '## A comprehensive overview of tools, projects, E-learnings and open licences'
+    content: "---\n## A comprehensive overview of tools, projects, E-learnings and open licences"
     overlay_gradient:
         - '0.8'
         - '0.3'
