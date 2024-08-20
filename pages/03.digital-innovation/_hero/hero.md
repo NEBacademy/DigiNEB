@@ -10,6 +10,7 @@ hero:
         - '0.3'
     overlay_direction: right
     overlay: custom
+    subtitle: '<br /><br /><br /><br />'
 media_order: '1968.jpg,monoceros.jpg'
 ---
 
