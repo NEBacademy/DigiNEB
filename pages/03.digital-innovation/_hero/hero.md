@@ -2,7 +2,7 @@
 title: 'Digital Innovation'
 body_classes: modular
 hero:
-    image: monoceros.jpg
+    image: digital.webp
     height: 45vh
     content: '## A comprehensive overview of tools, projects, E-learnings and open licences'
     overlay_gradient:
