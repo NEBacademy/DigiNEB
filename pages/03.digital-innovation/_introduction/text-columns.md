@@ -2,7 +2,6 @@
 body_classes: modular
 columns: 2
 section_classes: 'bg-white dark:bg-gray-900 py-8 md:py-12'
-title: Introduction
 ---
 
 #### DigiNEB provides a comprehensive overview of tools, projects, e-learning options, and open licenses relevant to the New European Bauhaus community. The innovations are presented at two different levels: separately and as part of collections.
