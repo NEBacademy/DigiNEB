@@ -2,9 +2,9 @@
 title: 'Digital tools'
 flex:
     directory: toolkit
-media_order: 'digitools.jpg,outreach.webp'
+media_order: tools.webp
 hero:
-    image: outreach.webp
+    image: tools.webp
     height: 60vh
     content: '## A collection of databases of digital tools for architects, designers and communities.'
     buttons:
