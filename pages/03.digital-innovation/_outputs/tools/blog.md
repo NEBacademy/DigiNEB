@@ -12,6 +12,7 @@ hero:
             text: 'Overview of Digital Tools'
             link: digital-innovation/_outputs/digital-tools-listing
             classes: 'bg-primary text-white hover:text-black'
+    subtitle: '<br /><br /><br /><br />'
 sitemap:
     lastmod: '14-07-2024 18:10'
 root_of_blog: true
