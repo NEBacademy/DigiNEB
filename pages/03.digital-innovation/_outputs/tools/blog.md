@@ -13,6 +13,9 @@ hero:
             link: digital-innovation/_outputs/digital-tools-listing
             classes: 'bg-primary text-white hover:text-black'
     subtitle: '<br /><br /><br /><br />'
+    overlay_gradient:
+        - '0.8'
+        - '0.1'
 sitemap:
     lastmod: '14-07-2024 18:10'
 root_of_blog: true
