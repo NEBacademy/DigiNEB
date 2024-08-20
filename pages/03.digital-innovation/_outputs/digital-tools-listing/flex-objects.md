@@ -7,6 +7,7 @@ hero:
     image: digitools.jpg
     height: 60vh
     content: '## A comprehensive overview of digital tools for architects, designers and communities.'
+    subtitle: '<br /><br /><br /><br />'
 taxonomy:
     tag:
         - energy
