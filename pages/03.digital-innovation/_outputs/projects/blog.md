@@ -5,14 +5,15 @@ hero:
     image: projects.webp
     height: 60vh
     overlay_gradient:
-        - '0.5'
-        - '0.1'
+        - '0.8'
+        - '0.3'
     content: '## A collection of databases with projects that develop digital tools or innovations that can support the objectives of the New European Bauhaus: beautiful, sustainable and together.'
     buttons:
         -
             text: 'Overview of Digital Projects'
             link: digital-innovation/_outputs/project-listing
             classes: 'bg-primary text-white hover:text-black'
+    overlay_direction: right
 root_of_blog: true
 content:
     items:
