@@ -14,7 +14,7 @@ feed:
 hero:
     image: e-learning.webp
     height: 60vh
-    overlay: dark
+    overlay: custom
     overlay_gradient:
         - '0.8'
         - '0.3'
