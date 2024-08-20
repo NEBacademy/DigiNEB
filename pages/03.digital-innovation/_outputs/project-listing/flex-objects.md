@@ -9,7 +9,6 @@ hero:
         - '0.5'
         - '0.1'
     content: '## An overview of projects developing digital tools or innovations to support the objectives of the New European Bauhaus: beautiful, sustainable and together.'
-media_order: HEU.jpg
 root_of_blog: true
 content:
     items:
