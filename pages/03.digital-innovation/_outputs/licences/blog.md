@@ -1,6 +1,6 @@
 ---
 title: 'Open licences'
-media_order: cc-by-icons-gradient.jpg
+media_order: licenses.webp
 hero:
     image: cc-by-icons-gradient.jpg
     overlay: none
@@ -12,12 +12,14 @@ content:
         - '@self.children'
     limit: 10
     order:
-        by: random
+        by: folder
         dir: desc
 feed:
     limit: 10
 header_bar:
     background: dark
 show_sidebar: false
+sitemap:
+    lastmod: '20-08-2024 13:19'
 ---
 
