@@ -29,7 +29,6 @@ hero:
     overlay_gradient:
         - '0.8'
         - '0.1'
-    subtitle: 'image: Time Loop by Paul Cocksedge, Hong Kong'
     title:
         text: DigiNEB
     content: "---\n## digiNEB supports the community of the New European Bauhaus (NEB) with digital solutions, projects and tools."
