@@ -8,7 +8,7 @@ hero:
     overlay: none
     height: 45vh
     subtitle: '<br /><br /><br /><br />'
-    content: '# DigiNEB'
+    content: '#DigiNEB'
 media_order: 'digiNEB_logo.png,digiNEB_logoo.png,digiNEB_logo_splash.webp'
 ---
 
