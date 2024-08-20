@@ -24,7 +24,7 @@ header_bar:
     background: transparent
     text: auto
 hero:
-    image: paul-cocksedge-time-loop.png
+    image: home.webp
     overlay_direction: bottom
     overlay_gradient:
         - '0.8'
@@ -34,7 +34,7 @@ hero:
         text: DigiNEB
     content: "---\n## digiNEB supports the community of the New European Bauhaus (NEB) with digital solutions, projects and tools."
     height: 60vh
-media_order: timber_on_top_d-1.jpg
+media_order: 'timber_on_top_d-1.jpg,paul-cocksedge-time-loop.png,home.webp'
 published: true
 ---
 
