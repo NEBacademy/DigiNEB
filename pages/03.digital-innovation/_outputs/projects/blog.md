@@ -2,7 +2,7 @@
 title: Projects
 media_order: projects.webp
 hero:
-    image: HEU.jpg
+    image: projects.webp
     height: 60vh
     overlay_gradient:
         - '0.5'
