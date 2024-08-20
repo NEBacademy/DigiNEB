@@ -8,5 +8,6 @@ hero:
     height: 45vh
 media_order: 'digiNEB_logo.png,digiNEB_logoo.png,digiNEB_logo_splash.webp'
 title: DigiNEB
+section_classes: 'bg-white dark:bg-gray-900 py-8 md:py-12'
 ---
 
