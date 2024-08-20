@@ -9,6 +9,6 @@ hero:
         - '0.5'
         - '0.1'
     overlay_direction: right
-media_order: '1968.jpg,1968_dot.jpg,monoceros.jpg'
+media_order: '1968.jpg,monoceros.jpg'
 ---
 
