@@ -3,7 +3,6 @@ title: 'Open licences'
 media_order: licenses.webp
 hero:
     image: licenses.webp
-    overlay: custom
     height: 60vh
     content: '## Collections of open licenses for data and content that can be freely used, modified, and shared by anyone for any purpose.'
     subtitle: '<br /><br /><br /><br />'
