@@ -2,7 +2,7 @@
 title: AI
 flex:
     directory: toolkit
-media_order: DALL·E.jpg
+media_order: ai.webp
 hero:
     image: DALL·E.jpg
     height: 60vh
