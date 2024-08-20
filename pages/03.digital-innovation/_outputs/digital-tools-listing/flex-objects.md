@@ -10,7 +10,7 @@ hero:
     subtitle: '<br /><br /><br /><br />'
     overlay_gradient:
         - '0.8'
-        - '0.3'
+        - '0.1'
 taxonomy:
     tag:
         - energy
