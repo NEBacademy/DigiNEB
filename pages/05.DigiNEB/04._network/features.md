@@ -23,6 +23,7 @@ features:
         text: null
         icon: tabler/user-code.svg
         link: /digineb/_network/early-adopters
+section_classes: 'bg-white dark:bg-gray-900 py-8 md:py-12'
 ---
 
 We can't scout for digital solutions alone and we don't do it for ourselves.
