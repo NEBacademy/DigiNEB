@@ -6,7 +6,7 @@ hero:
     height: 60vh
     overlay_gradient:
         - '0.8'
-        - '0.3'
+        - '0.1'
     content: '## A collection of databases with projects that develop digital tools or innovations that can support the objectives of the New European Bauhaus: beautiful, sustainable and together.'
     buttons:
         -
