@@ -2,9 +2,9 @@
 title: 'Digital tools'
 flex:
     directory: toolkit
-media_order: 'digitools.jpg,paul-cocksedge-time-loop.jpg'
+media_order: 'digitools.jpg,outreach.webp'
 hero:
-    image: digitools.jpg
+    image: outreach.webp
     height: 60vh
     content: '## A collection of databases of digital tools for architects, designers and communities.'
     buttons:
@@ -20,7 +20,7 @@ content:
         - '@self.children'
     limit: 10
     order:
-        by: random
+        by: folder
         dir: desc
 feed:
     limit: 10
