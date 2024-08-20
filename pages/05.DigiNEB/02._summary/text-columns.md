@@ -2,6 +2,7 @@
 title: Summary
 body_classes: modular
 columns: 2
+section_classes: 'bg-white dark:bg-gray-900 py-8 md:py-12'
 ---
 
 DigiNEB fosters digital solutions that boosts the growing New European Bauhaus (NEB) movement. It bridges the digital and NEB communities and raises awareness around digital solutions for all NEB stakeholders. With its lean action plan, digiNEB.eu enables Europe’s Green Deal ambition in designing & building greener and more inclusive living spaces for a better quality of life.
