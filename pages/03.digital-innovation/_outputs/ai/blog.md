@@ -11,6 +11,7 @@ hero:
         - '0.8'
         - '0.1'
     overlay_direction: right
+    subtitle: '<br /><br /><br /><br />'
 sitemap:
     lastmod: '14-07-2024 18:10'
 root_of_blog: true
