@@ -14,10 +14,9 @@ feed:
 hero:
     image: e-learning.webp
     height: 60vh
-    overlay: custom
     overlay_gradient:
         - '0.8'
-        - '0.3'
+        - '0.1'
     content: '## collections of e-learnings and training modules'
     subtitle: '<br /><br /><br /><br />'
 show_sidebar: false
