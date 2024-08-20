@@ -4,9 +4,13 @@ flex:
     directory: toolkit
 media_order: ai.webp
 hero:
-    image: DALL·E.jpg
+    image: ai.webp
     height: 60vh
     content: '## A collection of AI applications that architects, planners, designers and citizens should be aware of'
+    overlay_gradient:
+        - '0.8'
+        - '0.3'
+    overlay_direction: right
 sitemap:
     lastmod: '14-07-2024 18:10'
 root_of_blog: true
