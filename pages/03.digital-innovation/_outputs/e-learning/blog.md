@@ -1,13 +1,13 @@
 ---
 title: E-learning
-media_order: e-learning.png
+media_order: e-learning.webp
 root_of_blog: true
 content:
     items:
         - '@self.children'
     limit: 10
     order:
-        by: random
+        by: folder
         dir: desc
 feed:
     limit: 10
@@ -20,5 +20,7 @@ hero:
         - '0.3'
     content: '## collections of e-learnings and training modules'
 show_sidebar: false
+sitemap:
+    lastmod: '20-08-2024 13:14'
 ---
 
