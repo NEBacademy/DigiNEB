@@ -6,7 +6,7 @@ hero:
     image: projects.webp
     height: 60vh
     overlay_gradient:
-        - '0.5'
+        - '0.8'
         - '0.1'
     content: '## An overview of projects developing digital tools or innovations to support the objectives of the New European Bauhaus: beautiful, sustainable and together.'
     subtitle: '<br /><br /><br /><br />'
