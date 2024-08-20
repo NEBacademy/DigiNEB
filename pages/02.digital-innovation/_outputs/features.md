@@ -1,5 +1,4 @@
 ---
-title: 'DigiNEB outputs'
 body_classes: modular
 variation: vertical
 features:
