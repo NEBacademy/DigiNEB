@@ -5,7 +5,7 @@ hero:
         - '0.8'
         - '0.1'
     height: 60vh
-    image: digiNEB_logo_splash.webp
+    image: digiNEB_logo.webp
 onpage_menu: false
 header_bar:
     background: transparent
