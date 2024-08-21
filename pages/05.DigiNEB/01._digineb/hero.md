@@ -1,7 +1,7 @@
 ---
 body_classes: modular
 hero:
-    image: digiNEB_logo_splash.webp
+    image: digiNEB_logo.webp
     overlay_gradient:
         - '0.8'
         - '0.1'
