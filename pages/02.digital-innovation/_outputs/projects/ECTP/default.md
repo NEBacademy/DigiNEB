@@ -2,9 +2,9 @@
 title: ECTP
 continue_link: true
 link: 'https://dbe.ectp.org/project-database-list'
-media_order: DBE_logo.png
+media_order: 'DBE_logo.png,ECTP.webp'
 hero:
-    image: DBE_logo.png
+    image: ECTP.webp
 sitemap:
     lastmod: '23-07-2024 20:44'
 ---
