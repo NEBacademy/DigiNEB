@@ -3,8 +3,10 @@ title: 'RISE Educations'
 continue_link: true
 link: 'https://www.ri.se/en/what-we-do/educations'
 hero:
-    image: morphocode-illustration-academy.png
-media_order: rise-logo-black.png
+    image: DIGINEBBBBB.webp
+media_order: 'rise-logo-black.png,DIGINEBBBBB.webp'
+sitemap:
+    lastmod: '21-08-2024 11:29'
 ---
 
 ***
