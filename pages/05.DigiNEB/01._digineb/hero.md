@@ -6,6 +6,7 @@ hero:
         - '0.5'
         - '0.1'
     height: 60vh
+    overlay_direction: right
 media_order: digiNEB_logo.png
 title: DigiNEB
 section_classes: 'bg-white dark:bg-gray-900 py-8 md:py-12'
