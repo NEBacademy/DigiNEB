@@ -7,7 +7,7 @@ hero:
         - '0.1'
     height: 60vh
     overlay_direction: right
-    overlay: light
+    overlay: custom
 media_order: digiNEB_logo.png
 title: DigiNEB
 section_classes: 'bg-white dark:bg-gray-900 py-8 md:py-12'
