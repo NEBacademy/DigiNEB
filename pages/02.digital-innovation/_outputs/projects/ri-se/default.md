@@ -2,9 +2,9 @@
 title: RI.SE
 continue_link: true
 link: 'https://www.ri.se/en/what-we-do/projects'
-media_order: demtech-logo.png
+media_order: 'rise-logo-black.png,DIGINEBBBBB.webp'
 hero:
-    image: rise-logo-black.png
+    image: DIGINEBBBBB.webp
 sitemap:
     lastmod: '23-07-2024 21:10'
 ---
