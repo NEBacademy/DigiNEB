@@ -1,5 +1,7 @@
 ---
 title: 'Co-Create New European Bauhaus Open Call'
+continue_link: true
+link: 'https://www.eiturbanmobility.eu/co-create-new-european-bauhaus-open-call-2025/'
 sitemap:
     lastmod: '01-08-2024 09:05'
 taxonomy:
