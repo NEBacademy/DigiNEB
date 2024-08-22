@@ -17,6 +17,7 @@ The purpose of the call is to support projects that allow people and communities
 Deadline: 10th of October '24. 
 
 ===
+
 ```
 link: https://www.eiturbanmobility.eu/co-create-new-european-bauhaus-open-call-2025/
 ```
