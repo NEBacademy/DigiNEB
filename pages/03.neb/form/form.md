@@ -44,7 +44,7 @@ form:
             subject: '[Site Contact Form] {{ form.value.name|e }}'
             body: '{% include ''forms/data.html.twig'' %}'
         message: 'Thank you for getting in touch!'
-media_order: 'nebbifyer.webp,nebbyfier 23.webp,nebbifier 2.webp'
+media_order: 'nebbifyer.webp,nebbyfier 23.webp,nebbifier 2.webp,nebbyfier 22.webp'
 hero:
     image: 'nebbifier 2.webp'
     height: 60vh
