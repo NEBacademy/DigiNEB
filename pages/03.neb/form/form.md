@@ -44,5 +44,10 @@ form:
             subject: '[Site Contact Form] {{ form.value.name|e }}'
             body: '{% include ''forms/data.html.twig'' %}'
         message: 'Thank you for getting in touch!'
+media_order: nebbifyer.webp
+hero:
+    image: nebbifyer.webp
+sitemap:
+    lastmod: '23-08-2024 16:46'
 ---
 
