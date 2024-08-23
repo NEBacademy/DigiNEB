@@ -47,6 +47,7 @@ form:
 media_order: nebbifyer.webp
 hero:
     image: nebbifyer.webp
+    height: 60vh
 sitemap:
     lastmod: '23-08-2024 16:46'
 ---
