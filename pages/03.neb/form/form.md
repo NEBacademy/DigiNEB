@@ -46,7 +46,7 @@ form:
         message: 'Thank you for getting in touch!'
 media_order: 'nebbifyer.webp,nebbyfier 23.webp,nebbifier 2.webp'
 hero:
-    image: nebbifyer.webp
+    image: 'nebbyfier 23.webp'
     height: 60vh
 sitemap:
     lastmod: '23-08-2024 16:46'
