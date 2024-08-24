@@ -7,5 +7,11 @@ gallery:
     thumb:
         width: 1600
         height: 800
+    items:
+        -
+            title: null
+            image: 'nebbyfier 22.webp'
+            desc: null
+            video: null
 ---
 
