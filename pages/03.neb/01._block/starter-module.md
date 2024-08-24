@@ -13,5 +13,9 @@ gallery:
             image: 'nebbyfier 22.webp'
             desc: null
             video: null
+hero:
+    image: 'nebbyfier 22.webp'
+sitemap:
+    lastmod: '24-08-2024 20:31'
 ---
 
