@@ -2,7 +2,7 @@
 title: Magnific
 continue_link: true
 link: 'https://magnific.ai'
-media_order: Magnific.webp
+media_order: magnific2.webp
 hero:
     image: Magnifik.webp
 sitemap:
