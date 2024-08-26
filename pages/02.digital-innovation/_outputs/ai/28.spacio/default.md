@@ -5,8 +5,8 @@ link: 'https://plans2bim.com/en.html'
 hero: null
 sitemap:
     lastmod: '23-07-2024 21:10'
-media_order: plans2bim.webp
+media_order: spacio.webp
 ---
 
 ---
-Convert 2D plans into BIM online with the help of AI from scanned or CAD plans (PDF, PNG, JPEG).
+Design, analyse, and run compliance control on properly structured building models - directly in a browser.
