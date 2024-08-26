@@ -5,4 +5,4 @@ sitemap:
 ---
 
 ### [Plot4AI](https://plot4.ai/)
-A threat modeling library to help you build responsible AI
+A threat modeling library for building responsible AI. 
