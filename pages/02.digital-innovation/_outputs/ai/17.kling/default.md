@@ -4,7 +4,7 @@ continue_link: true
 link: 'https://kling.kuaishou.com/en'
 media_order: Comfyui.webp
 hero:
-    image: Magnifik.webp
+    image: kling.webp
 sitemap:
     lastmod: '23-07-2024 21:10'
 ---
