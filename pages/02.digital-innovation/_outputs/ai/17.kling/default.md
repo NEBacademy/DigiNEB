@@ -10,4 +10,4 @@ sitemap:
 ---
 
 ---
-Open source AI model to advance and democratize AI tooling believing believe that the future of AI tooling is open-source and community-driven.
+Kling is a text-to-video AI tool, empowering users with video generation capabilities, allowing them to create artistic videos.
