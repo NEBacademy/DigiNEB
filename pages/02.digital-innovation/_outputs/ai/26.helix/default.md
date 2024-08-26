@@ -1,7 +1,7 @@
 ---
 title: Helix
 continue_link: true
-link: 'https://stability.ai'
+link: 'https://www.evolvelab.io/helix'
 hero: null
 sitemap:
     lastmod: '23-07-2024 21:10'
