@@ -10,4 +10,4 @@ media_order: Finch2.webp
 ---
 
 ---
-The generative copilot for better buildings. Generative tech enables rapid iterations, allowing to explore a wide range of design options faster than ever before. Automatically fill stories and units with floor plans. Revise and refine your designs again and again.
+Text-to-CAD is an open-source prompt interface for generating CAD files through text prompts. Generate models that you can import into the CAD program of your choice.
