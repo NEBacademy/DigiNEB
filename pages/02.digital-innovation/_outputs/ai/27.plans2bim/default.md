@@ -1,7 +1,7 @@
 ---
 title: Plans2BIM
 continue_link: true
-link: 'https://www.evolvelab.io/helix'
+link: 'https://plans2bim.com/en.html'
 hero: null
 sitemap:
     lastmod: '23-07-2024 21:10'
