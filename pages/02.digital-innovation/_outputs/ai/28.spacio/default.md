@@ -1,7 +1,7 @@
 ---
 title: Spacio
 continue_link: true
-link: 'https://plans2bim.com/en.html'
+link: 'https://spacio.ai'
 hero: null
 sitemap:
     lastmod: '23-07-2024 21:10'
