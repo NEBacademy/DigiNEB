@@ -2,7 +2,7 @@
 title: Immersity
 continue_link: true
 link: 'https://www.immersity.ai'
-media_order: midjourney-logo.jpg
+media_order: immersity2.webp
 hero:
     image: Immersity.webp
 sitemap:
