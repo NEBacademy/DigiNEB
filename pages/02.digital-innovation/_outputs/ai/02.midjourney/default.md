@@ -7,6 +7,7 @@ hero:
     image: midjourney-logo.png
 sitemap:
     lastmod: '23-07-2024 21:10'
+published: true
 ---
 
 ---
