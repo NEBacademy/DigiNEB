@@ -2,9 +2,9 @@
 title: Midjourney
 continue_link: true
 link: 'https://www.midjourney.com'
-media_order: midjourney-logo.jpg
+media_order: midjourney.webp
 hero:
-    image: midjourney-logo.png
+    image: midjourney.webp
 sitemap:
     lastmod: '23-07-2024 21:10'
 published: true
