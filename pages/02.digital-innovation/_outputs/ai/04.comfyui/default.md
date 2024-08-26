@@ -2,7 +2,7 @@
 title: ComfyUI
 continue_link: true
 link: 'https://www.comfy.org'
-media_order: Comfyui.webp
+media_order: comfyui2.webp
 hero:
     image: Magnifik.webp
 sitemap:
