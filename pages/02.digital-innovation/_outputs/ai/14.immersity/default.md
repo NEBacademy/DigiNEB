@@ -1,7 +1,7 @@
 ---
 title: Immersity
 continue_link: true
-link: 'https://www.midjourney.com'
+link: 'https://www.immersity.ai'
 media_order: midjourney-logo.jpg
 hero:
     image: midjourney-logo.png
@@ -10,4 +10,4 @@ sitemap:
 ---
 
 ---
-Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
+Immersity generates depth in digital imagery, converting plane images and videos into 3D experiences.
