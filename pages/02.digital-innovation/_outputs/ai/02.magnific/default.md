@@ -10,4 +10,4 @@ sitemap:
 ---
 
 ---
-Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
+Magnific achieves  high-res upscaling, enhance & transform, reimagining details guided by prompts and parameters.
