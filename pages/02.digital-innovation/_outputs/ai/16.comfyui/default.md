@@ -2,7 +2,7 @@
 title: ComfyUI
 continue_link: true
 link: 'https://magnific.ai'
-media_order: Magnific.webp
+media_order: Comfyui.webp
 hero:
     image: Magnifik.webp
 sitemap:
