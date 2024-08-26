@@ -2,7 +2,7 @@
 title: Kling
 continue_link: true
 link: 'https://kling.kuaishou.com/en'
-media_order: Comfyui.webp
+media_order: kling2.webp
 hero:
     image: kling.webp
 sitemap:
