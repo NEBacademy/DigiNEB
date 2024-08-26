@@ -1,7 +1,7 @@
 ---
 title: KREA
 continue_link: true
-link: 'https://zoo.dev/text-to-cad'
+link: 'https://www.krea.ai/home'
 hero:
     image: text-to-cad.webp
 sitemap:
