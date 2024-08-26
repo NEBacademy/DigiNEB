@@ -9,4 +9,4 @@ media_order: helix.webp
 ---
 
 ---
-Stable Diffusion is an advanced text-to-image AI model, excelling in photorealism, processes complex prompts, and generates clear text. 
+Helix converts SketchUp and AutoCAD files to native Revit components allowing you to sync your models seamlessly.
