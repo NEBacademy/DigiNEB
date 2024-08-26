@@ -4,7 +4,7 @@ continue_link: true
 link: 'https://magnific.ai'
 media_order: magnific2.webp
 hero:
-    image: Magnifik.webp
+    image: magnific2.webp
 sitemap:
     lastmod: '23-07-2024 21:10'
 ---
