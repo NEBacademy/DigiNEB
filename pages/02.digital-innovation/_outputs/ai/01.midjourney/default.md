@@ -2,7 +2,7 @@
 title: Midjourney
 continue_link: true
 link: 'https://www.midjourney.com'
-media_order: midjourney.webp
+media_order: midjourney2.webp
 hero:
     image: midjourney.webp
 sitemap:
