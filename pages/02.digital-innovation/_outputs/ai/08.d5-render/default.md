@@ -3,7 +3,7 @@ title: 'D5 Render'
 continue_link: true
 link: 'https://zoo.dev/text-to-cad'
 hero:
-    image: text-to-cad.webp
+    image: D5render.webp
 sitemap:
     lastmod: '23-07-2024 21:10'
 media_order: D5render.webp
