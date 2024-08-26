@@ -6,7 +6,6 @@ hero:
     image: Finch.webp
 sitemap:
     lastmod: '23-07-2024 21:10'
-media_order: Finch.webp
 ---
 
 ---
