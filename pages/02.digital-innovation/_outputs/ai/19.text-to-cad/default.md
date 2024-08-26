@@ -1,7 +1,7 @@
 ---
 title: Text-to-CAD
 continue_link: true
-link: 'https://www.finch3d.com'
+link: 'https://zoo.dev/text-to-cad'
 hero:
     image: Finch2.webp
 sitemap:
