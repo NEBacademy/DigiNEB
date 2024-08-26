@@ -4,7 +4,7 @@ continue_link: true
 link: 'https://kling.kuaishou.com/en'
 media_order: kling2.webp
 hero:
-    image: kling.webp
+    image: kling2.webp
 sitemap:
     lastmod: '23-07-2024 21:10'
 ---
