@@ -21,7 +21,7 @@ content:
     limit: 64
     order:
         by: folder
-        dir: desc
+        dir: asc
 feed:
     limit: 10
 show_sidebar: false
