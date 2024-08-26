@@ -1,7 +1,7 @@
 ---
 title: Magnific
 continue_link: true
-link: 'https://www.midjourney.com'
+link: 'https://magnific.ai'
 media_order: Magnific.webp
 hero:
     image: midjourney-logo.png
