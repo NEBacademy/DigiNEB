@@ -1,7 +1,7 @@
 ---
 title: Kling
 continue_link: true
-link: 'https://www.comfy.org'
+link: 'https://kling.kuaishou.com/en'
 media_order: Comfyui.webp
 hero:
     image: Magnifik.webp
