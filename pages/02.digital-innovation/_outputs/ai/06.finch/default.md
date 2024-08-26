@@ -3,10 +3,10 @@ title: Finch
 continue_link: true
 link: 'https://www.finch3d.com'
 hero:
-    image: Finch.webp
+    image: Finch2.webp
 sitemap:
     lastmod: '23-07-2024 21:10'
-media_order: Finch.webp
+media_order: Finch2.webp
 ---
 
 ---
