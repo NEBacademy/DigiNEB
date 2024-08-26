@@ -4,7 +4,7 @@ continue_link: true
 link: 'https://www.midjourney.com'
 media_order: midjourney2.webp
 hero:
-    image: midjourney.webp
+    image: midjourney2.webp
 sitemap:
     lastmod: '23-07-2024 21:10'
 published: true
