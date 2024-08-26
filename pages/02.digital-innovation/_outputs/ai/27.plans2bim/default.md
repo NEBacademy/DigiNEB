@@ -1,0 +1,12 @@
+---
+title: Plans2BIM
+continue_link: true
+link: 'https://www.evolvelab.io/helix'
+hero: null
+sitemap:
+    lastmod: '23-07-2024 21:10'
+media_order: helix.webp
+---
+
+---
+Helix converts SketchUp and AutoCAD files to native Revit components allowing you to sync your models seamlessly.
