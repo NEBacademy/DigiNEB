@@ -5,7 +5,7 @@ link: 'https://stability.ai'
 hero: null
 sitemap:
     lastmod: '23-07-2024 21:10'
-media_order: Stability+AI+logo.png
+media_order: stablediffusion.webp
 ---
 
 ---
