@@ -5,7 +5,7 @@ link: 'https://hypar.io'
 hero: null
 sitemap:
     lastmod: '23-07-2024 21:10'
-media_order: Hypar.png
+media_order: hypar.webp
 ---
 
 ---
