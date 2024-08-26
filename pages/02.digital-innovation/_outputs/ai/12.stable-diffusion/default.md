@@ -9,4 +9,4 @@ media_order: stablediffusion.webp
 ---
 
 ---
-Stable Diffusion 3 Medium is the latest and most advanced text-to-image AI model in the Stable Diffusion 3 series, comprising two billion parameters. It excels in photorealism, processes complex prompts, and generates clear text. 
+Stable Diffusion is an advanced text-to-image AI model, excelling in photorealism, processes complex prompts, and generates clear text. 
