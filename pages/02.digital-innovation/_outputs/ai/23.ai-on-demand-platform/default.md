@@ -6,4 +6,4 @@ sitemap:
 
 ### [AI on Demand](https://aiod.eu/about)
 
-AI on Demand is a community-driven channel designed to empower europeanresearch - AIoDresearch andinnovation - AIoDinnovation in Artificial Intelligence (AI), while ensuring the europeanseal of quality - AIoDseal of quality , trustworthiness and explainability.
+AI on Demand is a community-driven channel designed to empower European research and innovation in Artificial Intelligence (AI), while ensuring the European seal of quality, trustworthiness and explainability.
