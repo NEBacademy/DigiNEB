@@ -2,7 +2,7 @@
 title: Magnific
 continue_link: true
 link: 'https://www.midjourney.com'
-media_order: midjourney-logo.jpg
+media_order: Magnific.webp
 hero:
     image: midjourney-logo.png
 sitemap:
