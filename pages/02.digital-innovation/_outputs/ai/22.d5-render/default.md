@@ -10,4 +10,4 @@ media_order: D5render.webp
 ---
 
 ---
-Text-to-CAD is an open-source prompt interface for generating CAD files through text prompts. Generate models that you can import into the CAD program of your choice.
+Design & visualization solution with built-in AI capabilities. Workflows for SketchUp, Rhino, C4D, 3ds Max, Archicad, Vectorworks, Revit and Blender.
