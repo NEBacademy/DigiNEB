@@ -4,7 +4,7 @@ continue_link: true
 link: 'https://www.immersity.ai'
 media_order: midjourney-logo.jpg
 hero:
-    image: midjourney-logo.png
+    image: Immersity.webp
 sitemap:
     lastmod: '23-07-2024 21:10'
 ---
