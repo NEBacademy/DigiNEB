@@ -10,4 +10,4 @@ sitemap:
 ---
 
 ---
-Magnific achieves  high-res upscaling, enhance & transform, reimagining details guided by prompts and parameters.
+Open source AI model to advance and democratize AI tooling believing believe that the future of AI tooling is open-source and community-driven.
