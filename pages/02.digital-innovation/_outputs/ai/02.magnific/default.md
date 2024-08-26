@@ -4,7 +4,7 @@ continue_link: true
 link: 'https://magnific.ai'
 media_order: Magnific.webp
 hero:
-    image: midjourney-logo.png
+    image: Magnifik.webp
 sitemap:
     lastmod: '23-07-2024 21:10'
 ---
