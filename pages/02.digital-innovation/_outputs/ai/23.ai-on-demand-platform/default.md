@@ -1,5 +1,5 @@
 ---
-title: 'AI on Demand Platform'
+title: 'AI on Demand'
 sitemap:
     lastmod: '26-08-2024 11:52'
 ---
