@@ -9,4 +9,4 @@ media_order: hypar.webp
 ---
 
 ---
-Hypar is a design automation platform for buildings. Anyone, anywhere can create and share design logic so everyone can build better. Hypar delivers sector-specific applications, like our workplace planning solution, powered by our platform.
+Hypar is a design automation platform for buildings, allowing users to create and share design logic so everyone can build better.
