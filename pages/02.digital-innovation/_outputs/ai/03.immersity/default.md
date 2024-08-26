@@ -4,7 +4,7 @@ continue_link: true
 link: 'https://www.immersity.ai'
 media_order: immersity2.webp
 hero:
-    image: Immersity.webp
+    image: immersity2.webp
 sitemap:
     lastmod: '23-07-2024 21:10'
 ---
