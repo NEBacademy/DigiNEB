@@ -20,7 +20,7 @@ content:
         - '@self.children'
     limit: 64
     order:
-        by: folder
+        by: random
         dir: asc
 feed:
     limit: 10
