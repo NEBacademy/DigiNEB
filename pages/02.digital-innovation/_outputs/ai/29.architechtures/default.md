@@ -1,7 +1,7 @@
 ---
 title: ARCHITEChTURES
 continue_link: true
-link: 'https://spacio.ai'
+link: 'https://architechtures.com/en'
 hero: null
 sitemap:
     lastmod: '23-07-2024 21:10'
