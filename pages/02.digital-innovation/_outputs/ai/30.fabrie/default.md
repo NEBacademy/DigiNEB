@@ -1,7 +1,7 @@
 ---
 title: Fabrie
 continue_link: true
-link: 'https://architechtures.com/en'
+link: 'https://www.fabrie.com/'
 hero: null
 sitemap:
     lastmod: '23-07-2024 21:10'
