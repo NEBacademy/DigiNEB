@@ -9,4 +9,4 @@ media_order: ARCHITEChTURES.webp
 ---
 
 ---
-Generative AI-powered building design platform to help design optimal residential developments
+Digital whiteboard that runs both locally with secure file storage and collaboratively online with all the AI tools.
