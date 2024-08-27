@@ -34,6 +34,11 @@ hero:
     content: "---\n## digiNEB supports the community of the New European Bauhaus (NEB) with a fine collection of digital solutions, projects and tools."
     height: 60vh
     subtitle: '<br /><br /><br /><br />'
+    buttons:
+        -
+            text: 'AI tools'
+            link: 'https://digineb.eu/digital-innovation/_outputs/ai-tools'
+            classes: 'bg-primary text-white hover:text-black'
 media_order: 'timber_on_top_d-1.jpg,paul-cocksedge-time-loop.png,home.webp,e-learning_animation.gif'
 published: true
 ---
