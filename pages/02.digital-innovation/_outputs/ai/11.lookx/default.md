@@ -1,7 +1,7 @@
 ---
 title: LookX
 continue_link: true
-link: 'https://www.fabrie.com/'
+link: 'https://www.lookx.ai/'
 hero: null
 sitemap:
     lastmod: '23-07-2024 21:10'
