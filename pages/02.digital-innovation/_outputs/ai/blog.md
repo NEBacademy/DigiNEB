@@ -1,5 +1,5 @@
 ---
-title: AI
+title: 'AI Tools'
 flex:
     directory: toolkit
 media_order: ai.webp
