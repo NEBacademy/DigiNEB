@@ -6,5 +6,6 @@ hero:
     image: podcast.webp
 sitemap:
     lastmod: '01-09-2024 10:36'
+visible: false
 ---
 
