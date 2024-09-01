@@ -17,7 +17,7 @@ features:
         title: Podcasts
         text: null
         icon: tabler/user-star.svg
-        link: /digineb/_network/podcasts
+        link: /digineb/podcasts
     -
         title: 'Early Adopters'
         text: null
