@@ -2,7 +2,6 @@
 title: 'DigiNEB Technical digital working group with a focus on Education, Training and Civic Engagement'
 sitemap:
     lastmod: '01-09-2024 11:03'
-media_order: 'DTWG - ED.PNG'
 hero:
     image: 'DTWG - ED.PNG'
 ---
