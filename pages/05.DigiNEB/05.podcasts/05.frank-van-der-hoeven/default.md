@@ -4,3 +4,7 @@ sitemap:
     lastmod: '01-09-2024 10:52'
 ---
 
+## Frank van der Hoeven
+### Part 1
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1459935565%3Fsecret_token%3Ds-XYu9Ylo6Unf&color=%235d94b4&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/aesop-planning" title="AESOP" target="_blank" style="color: #cccccc; text-decoration: none;">AESOP</a> · <a href="https://soundcloud.com/aesop-planning/memories-series-patsy-healey/s-XYu9Ylo6Unf" title="Memories Series - Patsy Healey" target="_blank" style="color: #cccccc; text-decoration: none;">Memories Series - Patsy Healey</a></div>
