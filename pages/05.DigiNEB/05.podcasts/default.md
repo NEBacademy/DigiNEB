@@ -1,7 +1,7 @@
 ---
 title: Podcasts
 show_children_in_secondary_menu: true
-menu: Episodes
+menu: Podcasts
 media_order: podcast.webp
 hero:
     image: podcast.webp
