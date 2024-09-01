@@ -4,9 +4,6 @@ sitemap:
     lastmod: '01-09-2024 10:52'
 hero:
     content: "---\n## DigiNEB Podcast"
-taxonomy:
-    tag:
-        - 'Climate change and adaptation'
 ---
 
 # Aase Højlund Nielse
