@@ -14,10 +14,10 @@ features:
         icon: tabler/users-group.svg
         link: null
     -
-        title: Champions
+        title: Podcasts
         text: null
         icon: tabler/user-star.svg
-        link: null
+        link: /digineb/_network/podcasts
     -
         title: 'Early Adopters'
         text: null
