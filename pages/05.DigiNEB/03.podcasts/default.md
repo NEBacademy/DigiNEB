@@ -1,5 +1,5 @@
 ---
-title: Podcasts
+title: 'DigiNEB Podcasts'
 show_children_in_secondary_menu: true
 media_order: 'podcast.webp,NEB Concepts.webp'
 hero:
