@@ -1,7 +1,7 @@
 ---
 title: Podcasts
 show_children_in_secondary_menu: true
-media_order: 'podcast.webp,adrew-dubber.webp'
+media_order: podcast.webp
 hero:
     image: podcast.webp
     height: 45vh
@@ -13,5 +13,3 @@ visible: true
 # DigiNEB Podcasts
 
 Interviews by Andrew Dubber with key players in the New European Bauhaus community.
-
-![adrew-dubber](adrew-dubber.webp "adrew-dubber")
