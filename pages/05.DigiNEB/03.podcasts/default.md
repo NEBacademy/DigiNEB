@@ -1,5 +1,5 @@
 ---
-title: '<br /><br /><br /><br />NEB concepts'
+title: 'NEB concepts'
 show_children_in_secondary_menu: true
 media_order: 'podcast.webp,NEB Concepts.webp'
 hero:
