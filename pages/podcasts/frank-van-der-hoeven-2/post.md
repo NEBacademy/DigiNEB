@@ -5,7 +5,6 @@ sitemap:
 hero: {  }
 taxonomy:
     podcast:
-        - 'Community engagement'
         - 'Frank van der Hoeven'
 ---
 
