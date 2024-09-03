@@ -15,7 +15,7 @@ content:
     limit: 10
     order:
         by: folder
-        dir: desc
+        dir: asc
     pagination: true
 hide_post_summary: true
 post_icon: calendar-o
