@@ -2,7 +2,8 @@
 title: 'Frank van der Hoeven - Part 1'
 sitemap:
     lastmod: '01-09-2024 10:52'
-hero: {  }
+hero:
+    content: "---\n## DigiNEB Podcast"
 taxonomy:
     podcast:
         - 'Frank van der Hoeven'
