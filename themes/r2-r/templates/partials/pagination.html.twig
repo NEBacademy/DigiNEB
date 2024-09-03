@@ -11,7 +11,7 @@
     {% if pagination.hasPrev %}
       {% set url =  (base_url ~ pagination.params ~ pagination.prevUrl)|replace({'//':'/'}) %}
       <li class="{{ li_class }}">
-        <a class="{{ item_class }} {{ link_class }}" rel="prev" href="{{ url }}">
+        <a class="{{ item_class }} {{ link_class }}" title="prev" rel="prev" href="{{ url }}">
           {{ icon_left|raw }}
         </a>
       </li>
@@ -39,7 +39,7 @@
     {% if pagination.hasNext %}
       {% set url = (base_url ~ pagination.params ~ pagination.nextUrl)|replace({'//':'/'}) %}
       <li class="{{ li_class }}">
-        <a class="{{ item_class }} {{ link_class }}" rel="next" href="{{ url }}">
+        <a class="{{ item_class }} {{ link_class }}" title="next" rel="next" href="{{ url }}">
           {{ icon_right|raw }}
         </a>
       </li>
