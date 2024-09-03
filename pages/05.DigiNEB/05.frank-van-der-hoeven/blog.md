@@ -14,7 +14,7 @@ content:
             - 'Frank van der Hoeven'
     limit: 10
     order:
-        by: date
+        by: folder
         dir: desc
     pagination: true
 hide_post_summary: true
