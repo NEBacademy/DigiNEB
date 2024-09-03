@@ -11,7 +11,7 @@ modular_content:
 content:
     items:
         '@taxonomy.podcast':
-            - 'frank-van-der-hoeven'
+            - frank-van-der-hoeven
     limit: 10
     order:
         by: date
@@ -29,6 +29,8 @@ show_sidebar: true
 hero_scroll: false
 hide_git_sync_repo_link: false
 continue_link_as_button: false
+sitemap:
+    lastmod: '03-09-2024 15:22'
 ---
 
 ## Frank van der Hoeven
