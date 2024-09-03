@@ -1,5 +1,5 @@
 ---
-title: 'DigiNEB Podcasts'
+title: 'NEB concepts'
 show_children_in_secondary_menu: true
 media_order: 'podcast.webp,NEB Concepts.webp'
 hero:
@@ -11,8 +11,6 @@ visible: true
 header_bar:
     background: auto
 ---
-
-# NEB concepts
 
 NEB Concepts features insightful conversations with leading architects, educators, and project leaders. The discussions deal with topics at the intersection of sustainability, innovation, and human-centred design. You'll hear directly from those shaping the future of urban development, cultural heritage, and community empowerment. 
 
