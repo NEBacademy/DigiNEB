@@ -11,7 +11,7 @@ modular_content:
 content:
     items:
         '@taxonomy.podcast':
-            - frank-van-der-hoeven
+            - 'Frank van der Hoeven'
     limit: 10
     order:
         by: date
