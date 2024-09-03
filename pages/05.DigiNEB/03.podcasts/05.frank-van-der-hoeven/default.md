@@ -1,7 +1,15 @@
 ---
 title: 'Frank van der Hoeven'
-sitemap:
-    lastmod: '01-09-2024 10:52'
+root_of_blog: true
+content:
+    items:
+        - '@self.children'
+    limit: 20
+    order:
+        by: folder
+        dir: asc
+feed:
+    limit: 20
 hero:
     content: "---\n## DigiNEB Podcast"
 taxonomy:
