@@ -22,7 +22,7 @@ post_icon: calendar-o
 hide_post_date: true
 hide_post_taxonomy: true
 feed:
-    description: 'NEB concepts'
+    description: 'Podcasts on the concepts of the New EUropean Bauhaus'
     limit: 60
     title: 'NEB concepts'
 child_type: post
