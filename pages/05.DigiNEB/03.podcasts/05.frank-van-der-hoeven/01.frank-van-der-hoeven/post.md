@@ -2,8 +2,7 @@
 title: 'Frank van der Hoeven'
 sitemap:
     lastmod: '01-09-2024 10:52'
-hero:
-    content: "---\n## DigiNEB Podcast"
+hero: {  }
 taxonomy:
     podcast:
         - frank-van-der-hoeven
