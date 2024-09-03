@@ -16,12 +16,3 @@ Co-creation and participatory design;
 Architectural education and practice;
 Digitalization and innovation;
 Human-centered design;
-
-### Segment 4
-<iframe title="digineb" width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1908103931&color=%234b4815&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=false"></iframe>
-Sustainability;
-Climate change and adaptation;
-Urban design and development;
-Co-creation and participatory design;
-Policy-making and evaluation;
-Community engagement;
