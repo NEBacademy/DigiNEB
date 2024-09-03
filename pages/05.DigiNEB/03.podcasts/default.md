@@ -18,4 +18,4 @@ NEB Concepts is modular – it allows you to 'choose your own adventure': follow
 
 Each short episode provides a collection of ideas and practices, projects and reflections, highlighting the transformative potential of the New European Bauhaus for a more inclusive and sustainable future.
 
-![NEB%20Concepts](NEB%20Concepts.webp "NEB%20Concepts")
+![NEB%20Concepts](NEB%20Concepts.webp "Andrew Dubber conducting an interview")
