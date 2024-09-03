@@ -3,11 +3,13 @@ title: 'DigiNEB Podcasts'
 show_children_in_secondary_menu: true
 media_order: 'podcast.webp,NEB Concepts.webp'
 hero:
-    image: podcast.webp
+    image: 'NEB Concepts.webp'
     height: 45vh
 sitemap:
     lastmod: '01-09-2024 10:36'
 visible: true
+header_bar:
+    background: auto
 ---
 
 # NEB concepts
