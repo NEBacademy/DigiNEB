@@ -5,6 +5,7 @@ media_order: 'podcast.webp,NEB Concepts.webp'
 hero:
     image: 'NEB Concepts.webp'
     height: 45vh
+    content: 'DigiNEB podcasts by Andrew Dubber and Guests'
 sitemap:
     lastmod: '01-09-2024 10:36'
 visible: true
