@@ -1,4 +1,0 @@
----
-title: 'Siebe Bakker'
----
-
