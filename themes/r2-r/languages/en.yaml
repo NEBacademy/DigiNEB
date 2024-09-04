@@ -20,6 +20,8 @@ THEME_TYPHOON:
       HEADLINE: Some Text Widget
     POPULAR_TAGS:
       HEADLINE: Popular Tags
+    POPULAR_PODCAST:
+      HEADLINE: Podcast Topic
     ARCHIVES:
       HEADLINE: Archives
     SYNDICATE:
