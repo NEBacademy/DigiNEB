@@ -33,5 +33,8 @@ continue_link_as_button: false
 sitemap:
     lastmod: '03-09-2024 15:22'
 root_of_blog: true
+media_order: podcast-cec199c1.webp
+hero:
+    image: podcast-cec199c1.webp
 ---
 
