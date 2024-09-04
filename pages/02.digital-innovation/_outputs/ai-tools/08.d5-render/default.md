@@ -1,7 +1,7 @@
 ---
 title: 'D5 Render'
 continue_link: true
-link: 'https://zoo.dev/text-to-cad'
+link: 'https://www.d5render.com'
 hero:
     image: D5render.webp
 sitemap:
