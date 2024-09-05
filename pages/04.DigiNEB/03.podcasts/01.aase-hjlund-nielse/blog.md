@@ -33,6 +33,5 @@ continue_link_as_button: false
 sitemap:
     lastmod: '03-09-2024 15:22'
 root_of_blog: true
-wrapper_spacing: 'xl:container xl:mx-auto md:px-6 px-2'
 ---
 
