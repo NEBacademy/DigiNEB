@@ -33,5 +33,6 @@ continue_link_as_button: false
 sitemap:
     lastmod: '03-09-2024 15:22'
 root_of_blog: true
+section_classes: 'bg-white dark:bg-gray-900 py-8 md:py-6'
 ---
 
