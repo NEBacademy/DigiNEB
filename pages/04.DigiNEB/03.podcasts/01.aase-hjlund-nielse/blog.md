@@ -26,7 +26,7 @@ feed:
     limit: 60
     title: 'NEB concepts'
 child_type: post
-show_sidebar: true
+show_sidebar: false
 hero_scroll: false
 hide_git_sync_repo_link: false
 continue_link_as_button: false
