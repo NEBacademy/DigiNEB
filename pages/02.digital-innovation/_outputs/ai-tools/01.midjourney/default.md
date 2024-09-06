@@ -8,6 +8,7 @@ hero:
 sitemap:
     lastmod: '23-07-2024 21:10'
 published: true
+body_classes: kaas
 ---
 
 ---
