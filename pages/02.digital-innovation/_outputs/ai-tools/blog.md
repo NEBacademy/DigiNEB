@@ -8,7 +8,7 @@ hero:
     height: 60vh
     content: '## A collection of AI applications that architects, planners, designers and citizens should be aware of'
     overlay_gradient:
-        - '0.8'
+        - '0.6'
         - '0.0'
     overlay_direction: right
     subtitle: '<br /><br /><br /><br />'
