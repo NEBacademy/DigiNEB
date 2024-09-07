@@ -7,6 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Davor Meersman'
+        - 'Sustainability'
+        - 'Building materials and techniques'
+        - 'Climate change and adaptation'
+        - 'Environmental conservation'
+        - 'Resource management and efficiency'
+        - 'Lifecycle thinking and long-term planning'
 show_sidebar: false
 ---
 

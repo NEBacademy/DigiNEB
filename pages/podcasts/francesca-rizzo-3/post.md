@@ -7,6 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Francesca Rizzo'
+        - 'Digital twins and simulations'
+        - 'Urban design and development'
+        - 'Inclusion'
+        - 'Policy-making and evaluation'
+        - 'Interdisciplinary approach'
+        - 'Quality of life and well-being'
 show_sidebar: false
 ---
 

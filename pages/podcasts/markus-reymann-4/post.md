@@ -6,7 +6,13 @@ hero:
     content: "---\n## DigiNEB Podcast"
 taxonomy:
     podcast:
-        - 'Markus Reymann'
+        - 'Markus Reymann
+        - 'New European Bauhaus'
+        - 'Inclusion'
+        - 'Sustainability'
+        - 'Human-centered design'
+        - 'Ecosystem approach'
+        - 'Nature-based solutions'
 show_sidebar: false
 ---
 

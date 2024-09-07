@@ -7,6 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Jan Bunge'
+        - 'Urban design and development'
+        - 'Digital twins and simulations'
+        - 'Sustainability'
+        - 'Data-driven decision making'
+        - 'AI and digital tools'
+        - 'Community engagement'
 show_sidebar: false
 ---
 

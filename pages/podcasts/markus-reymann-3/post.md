@@ -7,6 +7,13 @@ hero:
 taxonomy:
     podcast:
         - 'Markus Reymann'
+        - 'Cultural heritage and diversity'
+        - 'Environmental conservation'
+        - 'European collaboration and policy'
+        - 'Art and culture'
+        - 'Aesthetics'
+        - 'Community engagement'
+        - 'Sustainability'
 show_sidebar: false
 ---
 

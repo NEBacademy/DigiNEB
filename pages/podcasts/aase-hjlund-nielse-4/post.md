@@ -7,7 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Aase Højlund Nielsen'
-        - Sustainability
+        - 'Sustainability'
+        - 'Interdisciplinary approach'
+        - 'Community engagement'
+        - 'Knowledge sharing and dissemination'
+        - 'Adaptability'
+        - 'Co-creation and participatory design'
 show_sidebar: false
 show_pagination: false
 ---

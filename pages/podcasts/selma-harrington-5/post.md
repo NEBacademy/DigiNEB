@@ -7,6 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Selma Harrington'
+        - 'Community engagement'
+        - 'Urban design and development'
+        - 'Co-creation and participatory design'
+        - 'Interdisciplinary approach'
+        - 'Architectural education and practice'
+        - 'AI and digital tools'
 show_sidebar: false
 ---
 

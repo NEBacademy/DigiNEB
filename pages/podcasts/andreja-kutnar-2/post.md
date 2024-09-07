@@ -7,6 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Andreja Kutnar'
+        - 'New European Bauhaus'
+        - 'Sustainability'
+        - 'Building materials and techniques'
+        - 'Environmental conservation'
+        - 'Circular economy'
+        - 'Digitalization and innovation'
 show_sidebar: false
 ---
 

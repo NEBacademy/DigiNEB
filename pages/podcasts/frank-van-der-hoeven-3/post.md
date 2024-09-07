@@ -6,6 +6,12 @@ hero: {  }
 taxonomy:
     podcast:
         - 'Frank van der Hoeven'
+        - 'Community engagement'
+        - 'AI and digital tools'
+        - 'Co-creation and participatory design'
+        - 'Architectural education and practice'
+        - 'Digitalization and innovation'
+        - 'Human-centered design'
 show_sidebar: false
 ---
 

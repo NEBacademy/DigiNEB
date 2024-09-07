@@ -7,6 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Matti Kuittinen'
+        - 'Sustainability'
+        - 'Resource management and efficiency'
+        - 'Lifecycle thinking and long-term planning'
+        - 'European collaboration and policy'
+        - 'New European Bauhaus'
+        - 'Human-centered design'
 show_sidebar: false
 ---
 

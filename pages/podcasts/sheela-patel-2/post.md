@@ -9,10 +9,10 @@ taxonomy:
         - 'Sheela Patel'
         - 'Community engagement'
         - 'Inclusion'
-		- 'Social renewal and societal change'
-		- 'Human-centered design'
-		- 'Technology integration'
-		- 'Local and regional solutions'
+        - 'Social renewal and societal change'
+        - 'Human-centered design'
+        - 'Technology integration'
+        - 'Local and regional solutions'
 show_sidebar: false
 ---
 

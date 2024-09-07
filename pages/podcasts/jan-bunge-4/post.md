@@ -7,6 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Jan Bunge'
+        - 'Co-creation and participatory design'
+        - 'AI and digital tools'
+        - 'Community engagement'
+        - 'Urban design and development'
+        - 'Resource management and efficiency'
+        - 'Digitalization and innovation'
 show_sidebar: false
 ---
 

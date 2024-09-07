@@ -7,6 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Jan Bunge'
+        - 'Digital twins and simulations'
+        - 'Urban design and development'
+        - 'Resource management and efficiency'
+        - 'Data-driven decision making'
+        - 'Sustainability'
+        - 'Systems thinking'
 show_sidebar: false
 ---
 

@@ -7,6 +7,13 @@ hero:
 taxonomy:
     podcast:
         - 'Roberto Cavallo'
+        - 'New European Bauhaus'
+        - 'Sustainability'
+        - 'Inclusion'
+        - 'Local and regional solutions'
+        - 'Art and culture'
+        - 'Aesthetics'
+        - 'European collaboration and policy'
 show_sidebar: false
 ---
 

@@ -7,6 +7,11 @@ hero:
 taxonomy:
     podcast:
         - 'Selma Harrington'
+        - 'New European Bauhaus'
+        - 'Sustainability'
+        - 'Community engagement'
+        - 'Interdisciplinary approach'
+        - 'Heritage preservation'
 show_sidebar: false
 ---
 

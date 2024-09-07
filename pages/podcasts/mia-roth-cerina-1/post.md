@@ -7,6 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Mia Roth Cerina'
+        - 'Architectural education and practice'
+        - 'Sustainability'
+        - 'Inclusion'
+        - 'Local and regional solutions'
+        - 'Nature-based solutions'
+        - 'Cultural heritage and diversity'
 show_sidebar: false
 ---
 

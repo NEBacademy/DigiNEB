@@ -7,6 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Andreja Kutnar'
+        - 'Sustainability'
+        - 'Building materials and techniques'
+        - 'Education innovation'
+        - 'Technology integration'
+        - 'Interdisciplinary approach'
+        - 'Architectural education and practice'
 show_sidebar: false
 ---
 

@@ -7,6 +7,13 @@ hero:
 taxonomy:
     podcast:
         - 'Matti Kuittinen'
+        - 'Climate change and adaptation'
+        - 'New European Bauhaus'
+        - 'European collaboration and policy'
+        - 'Cultural heritage and diversity'
+        - 'Art and culture'
+        - 'Aesthetics
+        - 'Environmental conservation'
 show_sidebar: false
 ---
 

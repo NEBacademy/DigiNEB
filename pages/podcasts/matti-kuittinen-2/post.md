@@ -7,6 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Matti Kuittinen'
+        - 'Architectural education and practice'
+        - 'Climate change and adaptation'
+        - 'European collaboration and policy'
+        - 'Resource management and efficiency'
+        - 'AI and digital tools'
+        - 'Lifecycle thinking and long-term planning'
 show_sidebar: false
 ---
 

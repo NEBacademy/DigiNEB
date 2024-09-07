@@ -7,6 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Jan Bunge'
+        - 'Systems thinking'
+        - 'Urban design and development'
+        - 'Sustainability'
+        - 'Lifecycle thinking and long-term planning'
+        - 'Ecosystem approach'
+        - 'Local and regional solutions'
 show_sidebar: false
 ---
 

@@ -7,6 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Matti Kuittinen'
+        - 'Sustainability'
+        - 'Building materials and techniques'
+        - 'Climate change and adaptation'
+        - 'Systems thinking'
+        - 'Policy-making and evaluation'
+        - 'Resource management and efficiency'
 show_sidebar: false
 ---
 

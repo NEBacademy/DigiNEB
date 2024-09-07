@@ -7,6 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Matti Kuittinen'
+        - 'Sustainability'
+        - 'Circular economy'
+        - 'Lifecycle thinking and long-term planning'
+        - 'Climate change and adaptation'
+        - 'Interdisciplinary approach'
+        - 'New European Bauhaus'
 show_sidebar: false
 ---
 

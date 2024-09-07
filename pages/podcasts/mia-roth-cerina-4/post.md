@@ -7,6 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Mia Roth Cerina'
+        - 'Architectural education and practice'
+        - 'Education innovation'
+        - 'Interdisciplinary approach'
+        - 'Sustainability'
+        - 'Technology integration'
+        - 'Social renewal and societal change'
 show_sidebar: false
 ---
 

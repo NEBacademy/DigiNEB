@@ -7,6 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Andreja Kutnar'
+        - 'Digital twins and simulations'
+        - 'Sustainability'
+        - 'Interdisciplinary approach'
+        - 'Education innovation'
+        - 'Human-centered design'
+        - 'Technology integration'
 show_sidebar: false
 ---
 

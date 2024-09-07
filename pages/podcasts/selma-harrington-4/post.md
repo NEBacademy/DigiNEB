@@ -7,6 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Selma Harrington'
+        - 'AI and digital tools'
+        - 'Architectural education and practice'
+        - 'European collaboration and policy'
+        - 'Technology integration'
+        - 'Digitalization and innovation'
+        - 'Interdisciplinary approach'
 show_sidebar: false
 ---
 

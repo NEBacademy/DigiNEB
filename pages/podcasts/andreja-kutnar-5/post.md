@@ -7,6 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Andreja Kutnar'
+        - 'Sustainability'
+        - 'Climate change and adaptation'
+        - 'Education innovation'
+        - 'Policy-making and evaluation'
+        - 'Technology integration'
+        - 'Local and regional solutions'
 show_sidebar: false
 ---
 

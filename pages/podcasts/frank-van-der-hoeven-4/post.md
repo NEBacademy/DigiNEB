@@ -6,7 +6,12 @@ hero: {  }
 taxonomy:
     podcast:
         - 'Frank van der Hoeven'
-        - Sustainability
+        - 'Sustainability'
+        - 'Climate change and adaptation'
+        - 'Urban design and development'
+        - 'Co-creation and participatory design'
+        - 'Policy-making and evaluation'
+        - 'Community engagement'
 show_sidebar: false
 ---
 

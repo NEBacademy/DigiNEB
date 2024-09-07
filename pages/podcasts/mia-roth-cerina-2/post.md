@@ -7,6 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Mia Roth Cerina'
+        - 'Sustainability'
+        - 'Climate change and adaptation'
+        - 'Interdisciplinary approach'
+        - 'Human-centered design'
+        - 'Nature-based solutions'
+        - 'Ecosystem approach'
 show_sidebar: false
 ---
 

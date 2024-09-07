@@ -7,6 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Aase Højlund Nielsen'
+        - 'Community engagement'
+        - 'Technology integration'
+        - 'Education innovation'
+        - 'Adaptability'
+        - 'Cultural heritage and diversity'
+        - 'Co-creation and participatory design'
 show_sidebar: false
 show_pagination: false
 ---

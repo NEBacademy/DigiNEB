@@ -7,6 +7,13 @@ hero:
 taxonomy:
     podcast:
         - 'Markus Reymann'
+        - 'Community engagement'
+        - 'Interdisciplinary approach'
+        - 'Art and culture'
+        - 'Aesthetics'
+        - 'Local and regional solutions'
+        - 'Inclusion'
+        - 'Environmental conservation'
 show_sidebar: false
 ---
 

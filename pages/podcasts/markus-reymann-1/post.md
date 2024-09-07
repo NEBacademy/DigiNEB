@@ -7,6 +7,13 @@ hero:
 taxonomy:
     podcast:
         - 'Markus Reymann'
+        - 'Art and culture'
+        - 'Aesthetics'
+        - 'Accessibility'
+        - 'Environmental conservation'
+        - 'Human-centered design'
+        - 'Data-driven decision making'
+        - 'Social renewal and societal change'
 show_sidebar: false
 ---
 

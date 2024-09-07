@@ -7,6 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Roberto Cavallo'
+        - 'European collaboration and policy'
+        - 'Local and regional solutions'
+        - 'Knowledge sharing and dissemination'
+        - 'Cultural heritage and diversity'
+        - 'Education innovation'
+        - 'Interdisciplinary approach'
 show_sidebar: false
 ---
 

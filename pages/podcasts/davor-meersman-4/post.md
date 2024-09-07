@@ -7,6 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Davor Meersman'
+        - 'Sustainability'
+        - 'Urban design and development'
+        - 'European collaboration and policy'
+        - 'Technology integration'
+        - 'Climate change and adaptation'
+        - 'Co-creation and participatory design'
 show_sidebar: false
 ---
 

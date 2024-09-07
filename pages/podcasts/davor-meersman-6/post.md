@@ -7,6 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Davor Meersman'
+        - 'Architectural education and practice'
+        - 'Urban design and development'
+        - 'Technology integration'
+        - 'Digitalization and innovation'
+        - 'Co-creation and participatory design'
+        - 'Inclusion'
 show_sidebar: false
 ---
 

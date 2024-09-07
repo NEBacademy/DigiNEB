@@ -7,6 +7,13 @@ hero:
 taxonomy:
     podcast:
         - 'Markus Reymann'
+        - 'AI and digital tools'
+        - 'Human-centered design'
+        - 'Data-driven decision making'
+        - 'Nature-based solutions'
+        - 'European collaboration and policy'
+        - 'Art and culture'
+        - 'Aesthetics'
 show_sidebar: false
 ---
 

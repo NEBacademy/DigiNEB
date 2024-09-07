@@ -7,6 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Francesca Rizzo'
+        - 'Human-centered design'
+        - 'Urban design and development'
+        - 'Nature-based solutions'
+        - 'Community engagement'
+        - 'Cultural heritage and diversity'
+        - 'Interdisciplinary approach'
 show_sidebar: false
 ---
 

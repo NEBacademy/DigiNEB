@@ -7,6 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Roberto Cavallo'
+        - 'Accessibility'
+        - 'Inclusion'
+        - 'Community engagement'
+        - 'Interdisciplinary approach'
+        - 'Co-creation and participatory design'
+        - 'Digitalization and innovation'
 show_sidebar: false
 ---
 

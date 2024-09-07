@@ -7,6 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Davor Meersman'
+        - 'New European Bauhaus'
+        - 'Urban design and development'
+        - 'Technology integration'
+        - 'Social renewal and societal change'
+        - 'Community engagement'
+        - 'Systems thinking'
 show_sidebar: false
 ---
 

@@ -7,6 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Mia Roth Cerina'
+        - 'Technology integration'
+        - 'Sustainability'
+        - 'Urban design and development'
+        - 'Cultural heritage and diversity'
+        - 'Adaptability'
+        - 'New European Bauhaus'
 show_sidebar: false
 ---
 

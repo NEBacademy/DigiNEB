@@ -7,6 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Francesca Rizzo'
+        - 'New European Bauhaus'
+        - 'Sustainability'
+        - 'Inclusion'
+        - 'Human-centered design'
+        - 'Community engagement'
+        - 'Ecosystem approach'
 show_sidebar: false
 ---
 

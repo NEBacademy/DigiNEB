@@ -7,6 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Aase Højlund Nielsen'
+        - 'Sustainability'
+        - 'Community engagement'
+        - 'Climate change and adaptation'
+        - 'Co-creation and participatory design'
+        - 'Human-centered design'
+        - 'Local and regional solutions'
 show_sidebar: false
 show_pagination: false
 ---

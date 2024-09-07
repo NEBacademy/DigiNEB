@@ -7,6 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Roberto Cavallo'
+        - 'New European Bauhaus'
+        - 'AI and digital tools'
+        - 'Knowledge sharing and dissemination'
+        - 'Education innovation'
+        - 'Sustainability'
+        - 'Interdisciplinary approach'
 show_sidebar: false
 ---
 

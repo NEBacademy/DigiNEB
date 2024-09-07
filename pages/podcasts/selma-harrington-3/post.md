@@ -7,6 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Selma Harrington'
+        - 'Heritage preservation'
+        - 'Sustainability'
+        - 'Local and regional solutions'
+        - 'Accessibility'
+        - 'Water management and design'
+        - 'Policy-making and evaluation'
 show_sidebar: false
 ---
 

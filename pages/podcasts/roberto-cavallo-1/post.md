@@ -7,6 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Roberto Cavallo'
+        - 'Architectural education and practice'
+        - 'European collaboration and policy'
+        - 'Social renewal and societal change'
+        - 'Interdisciplinary approach'
+        - 'Digitalization and innovation'
+        - 'Education innovation'
 show_sidebar: false
 ---
 

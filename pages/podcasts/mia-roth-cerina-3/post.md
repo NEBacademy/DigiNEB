@@ -7,6 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Mia Roth Cerina'
+        - 'Sustainability'
+        - 'Interdisciplinary approach'
+        - 'Ecosystem approach'
+        - 'Education innovation'
+        - 'Environmental conservation'
+        - 'Adaptability'
 show_sidebar: false
 ---
 

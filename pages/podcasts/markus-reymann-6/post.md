@@ -7,6 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Markus Reymann'
+        - 'Environmental conservation'
+        - 'Accessibility'
+        - 'Ecosystem approach'
+        - 'Climate change and adaptation'
+        - 'Digitalization and innovation'
+        - 'Policy-making and evaluation'
 show_sidebar: false
 ---
 

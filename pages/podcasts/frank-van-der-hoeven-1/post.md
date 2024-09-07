@@ -8,7 +8,7 @@ taxonomy:
     podcast:
         - 'Frank van der Hoeven'
         - 'New European Bauhaus'
-        - Sustainability
+        - 'Sustainability'
         - 'Cultural heritage and diversity'
         - 'Social renewal and societal change'
         - 'Architectural education and practice'

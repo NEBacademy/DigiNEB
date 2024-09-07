@@ -4,7 +4,7 @@ content:
     items:
         '@taxonomy.podcast':
             - Sustainability
-    limit: 10
+    limit: 100
     order:
         by: date
         dir: desc

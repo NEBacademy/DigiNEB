@@ -7,6 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Aase Højlund Nielsen'
+        - 'Sustainability'
+        - 'Community engagement'
+        - 'Climate change and adaptation'
+        - 'Systems thinking'
+        - 'Interdisciplinary approach'
+        - 'Knowledge sharing and dissemination'
 show_sidebar: false
 show_pagination: false
 ---

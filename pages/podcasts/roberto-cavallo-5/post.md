@@ -7,6 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Roberto Cavallo'
+        - 'Education innovation'
+        - 'Urban design and development'
+        - 'Co-creation and participatory design'
+        - 'Education innovation'
+        - 'Accessibility'
+        - 'Interdisciplinary approach'
 show_sidebar: false
 ---
 

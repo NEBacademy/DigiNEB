@@ -7,6 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Davor Meersman'
+        - 'Sustainability'
+        - 'Technology integration'
+        - 'Building materials and techniques'
+        - 'Digitalization and innovation'
+        - 'Environmental conservation'
+        - 'Knowledge sharing and dissemination'
 show_sidebar: false
 ---
 

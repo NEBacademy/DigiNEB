@@ -7,6 +7,11 @@ taxonomy:
     podcast:
         - 'Frank van der Hoeven'
         - 'Community Engagement'
+        - 'Architectural education and practice'
+        - 'Education innovation'
+        - 'European collaboration and policy'
+        - 'Knowledge sharing and dissemination'
+        - 'Interdisciplinary approach'
 show_sidebar: false
 ---
 

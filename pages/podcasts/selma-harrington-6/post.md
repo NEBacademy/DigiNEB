@@ -7,6 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Selma Harrington'
+        - 'Education innovation'
+        - 'AI and digital tools'
+        - 'Architectural education and practice'
+        - 'Technology integration'
+        - 'Interdisciplinary approach'
+        - 'Water management and design'
 show_sidebar: false
 ---
 

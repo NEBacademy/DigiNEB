@@ -12,6 +12,7 @@ taxonomy:
         - 'Social renewal and societal change'
         - 'European collaboration and policy'
         - 'Knowledge sharing and dissemination'
+        - Sustainability
 show_sidebar: false
 ---
 

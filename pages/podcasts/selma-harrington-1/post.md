@@ -7,6 +7,13 @@ hero:
 taxonomy:
     podcast:
         - 'Selma Harrington'
+        - 'Architectural education and practice'
+        - 'Sustainability'
+        - 'Heritage preservation'
+        - 'Art and culture'
+        - 'Aesthetics'
+        - 'Interdisciplinary approach'
+        - 'Cultural heritage and diversity'
 show_sidebar: false
 ---
 
