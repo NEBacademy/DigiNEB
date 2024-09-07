@@ -7,7 +7,7 @@ content:
     limit: 100
     order:
         by: date
-        dir: desc
+        dir: asc
     pagination: true
 root_of_blog: true
 feed:
