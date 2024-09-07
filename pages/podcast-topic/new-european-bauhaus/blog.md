@@ -1,10 +1,10 @@
 ---
-title: New European Bauhaus
+title: 'New European Bauhaus'
 content:
     items:
         '@taxonomy.podcast':
             - 'New European Bauhaus'
-    limit: 10
+    limit: 100
     order:
         by: date
         dir: desc
