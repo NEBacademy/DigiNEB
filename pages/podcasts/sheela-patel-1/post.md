@@ -7,6 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Sheela Patel'
+        - 'Urban design and development'
+		- 'Community engagement'
+		- 'Inclusion'
+		- 'Social renewal and societal change'
+		- 'Human-centered design'
+		- 'Quality of life and well-being'
 show_sidebar: false
 ---
 

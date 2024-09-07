@@ -7,6 +7,11 @@ hero:
 taxonomy:
     podcast:
         - 'Sheela Patel'
+        - Inclusion
+        - 'Cultural heritage and diversity'
+        - 'Social renewal and societal change'
+        - 'European collaboration and policy'
+        - 'Knowledge sharing and dissemination'
 show_sidebar: false
 ---
 

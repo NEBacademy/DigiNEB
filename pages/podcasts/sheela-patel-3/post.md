@@ -7,8 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Sheela Patel'
-        - Sustainability
+        - 'Sustainability'
         - 'New European Bauhaus'
+        - 'Urban design and development'
+		- 'Inclusion'
+		- 'Lifecycle thinking and long-term planning'
+		- 'European collaboration and policy'
 show_sidebar: false
 ---
 

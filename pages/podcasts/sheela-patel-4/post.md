@@ -7,6 +7,12 @@ hero:
 taxonomy:
     podcast:
         - 'Sheela Patel'
+        - 'Urban design and development'
+		- 'Community engagement'
+		- 'Digitalization and innovation'
+		- 'Climate change and adaptation'
+		- 'Local and regional solutions'
+		- 'Co-creation and participatory design'
 show_sidebar: false
 ---
 
