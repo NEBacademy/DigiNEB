@@ -16,5 +16,6 @@ sitemap:
     lastmod: '07-09-2024 15:27'
 hero:
     image: NEB-Concepts.webp
+    content: 'NEB concepts | DigiNEB podcasts'
 ---
 
