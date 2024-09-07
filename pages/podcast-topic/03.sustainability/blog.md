@@ -3,7 +3,7 @@ title: Sustainability
 content:
     items:
         '@taxonomy.podcast':
-            - 'sustainability'
+            - 'Sustainability'
     limit: 10
     order:
         by: date
