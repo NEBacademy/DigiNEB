@@ -6,7 +6,7 @@ content:
             - Sustainability
     limit: 100
     order:
-        by: date
+        by: folder
         dir: desc
     pagination: true
 root_of_blog: true
