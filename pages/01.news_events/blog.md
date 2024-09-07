@@ -1,5 +1,5 @@
 ---
-title: 'News & Events'
+title: Home
 sitemap:
     changefreq: daily
     lastmod: '24-07-2024 20:46'
