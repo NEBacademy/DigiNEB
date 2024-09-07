@@ -1,6 +1,5 @@
 ---
-hero:
-    content: 'NEB concepts | DigiNEB podcasts'
+hero: {  }
 sitemap:
     lastmod: '07-09-2024 15:32'
 ---
