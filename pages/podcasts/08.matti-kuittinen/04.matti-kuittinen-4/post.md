@@ -15,5 +15,5 @@ Sustainability;
 Resource management and efficiency;
 Lifecycle thinking and long-term planning;
 European collaboration and policy;
-New European Bauhaus;
+<kbd>[New European Bauhaus](https://digineb.eu/podcast-topic/new-european-bauhaus)</kbd>
 Human-centered design;

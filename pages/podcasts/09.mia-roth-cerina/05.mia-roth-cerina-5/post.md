@@ -16,4 +16,4 @@ Sustainability;
 Urban design and development;
 Cultural heritage and diversity;
 Adaptability;
-New European Bauhaus;
+<kbd>[New European Bauhaus](https://digineb.eu/podcast-topic/new-european-bauhaus)</kbd>

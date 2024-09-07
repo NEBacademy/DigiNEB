@@ -16,4 +16,4 @@ Circular economy;
 Lifecycle thinking and long-term planning;
 Climate change and adaptation;
 Interdisciplinary approach;
-New European Bauhaus;
+<kbd>[New European Bauhaus](https://digineb.eu/podcast-topic/new-european-bauhaus)</kbd>
