@@ -8,6 +8,7 @@ taxonomy:
     podcast:
         - 'Sheela Patel'
         - Sustainability
+        - 'New European Bauhaus'
 show_sidebar: false
 ---
 
