@@ -14,5 +14,7 @@ feed:
     limit: 10
 sitemap:
     lastmod: '07-09-2024 15:27'
+hero:
+    image: NEB-Concepts.webp
 ---
 
