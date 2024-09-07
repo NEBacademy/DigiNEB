@@ -21,5 +21,5 @@ Digital twins and simulations;
 Urban design and development;
 Resource management and efficiency;
 Data-driven decision making;
-Sustainability;
+<kbd>[Sustainability](https://digineb.eu/podcasts/sustainability)</kbd>
 Systems thinking;

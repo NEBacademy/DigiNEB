@@ -20,6 +20,6 @@ show_sidebar: false
 Architectural education and practice;
 Education innovation;
 Interdisciplinary approach;
-Sustainability;
+<kbd>[Sustainability](https://digineb.eu/podcasts/sustainability)</kbd>
 Technology integration;
 Social renewal and societal change;
