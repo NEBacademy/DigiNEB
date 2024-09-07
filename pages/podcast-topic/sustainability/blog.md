@@ -17,5 +17,6 @@ sitemap:
 hero:
     image: NEB-Concepts.webp
     content: 'NEB concepts | DigiNEB podcasts'
+show_sidebar: false
 ---
 
