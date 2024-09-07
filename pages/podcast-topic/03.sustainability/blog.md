@@ -3,10 +3,16 @@ title: Sustainability
 content:
     items:
         '@taxonomy.podcast':
-            - 'Sustainability'
+            - Sustainability
     limit: 10
     order:
         by: date
         dir: desc
-    pagination: '1'
+    pagination: true
+root_of_blog: true
+feed:
+    limit: 10
+sitemap:
+    lastmod: '07-09-2024 15:27'
 ---
+
