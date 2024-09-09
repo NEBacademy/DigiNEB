@@ -16,9 +16,9 @@ show_sidebar: false
 ---
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1908140915&color=%234b4815&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=false"></iframe>
-European collaboration and policy;
+<kbd>[European collaboration and policy](https://digineb.eu/podcasts/european-collaboration-and-policy)</kbd>
 <kbd>[New European Bauhaus](https://digineb.eu/podcasts/new-european-bauhaus)</kbd>
 <kbd>[Sustainability](https://digineb.eu/podcasts/sustainability)</kbd>
-Community engagement;
-Interdisciplinary approach;
-Heritage preservation;
+<kbd>[Community engagement](https://digineb.eu/podcasts/community-engagement)</kbd>
+<kbd>[Interdisciplinary approach](https://digineb.eu/podcasts/interdisciplinary-approach)</kbd>
+<kbd>[Heritage preservation](https://digineb.eu/podcasts/heritage-preservation)</kbd>

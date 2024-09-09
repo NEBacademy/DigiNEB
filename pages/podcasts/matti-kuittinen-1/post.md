@@ -18,8 +18,7 @@ show_sidebar: false
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1908122699&color=%234b4815&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=false"></iframe>
 <kbd>[Sustainability](https://digineb.eu/podcasts/sustainability)</kbd>
-Building materials and techniques;
-Climate change and adaptation;
-Systems thinking;
-Policy-making and evaluation;
-Resource management and efficiency;
+<kbd>[Building materials and techniques](https://digineb.eu/podcasts/building-materials-and-techniques)</kbd>
+<kbd>[Climate change and adaptation](https://digineb.eu/podcasts/climate-change-and-adaptation)</kbd>
+<kbd>[Systems thinking](https://digineb.eu/podcasts/systems-thinking)</kbd><kbd>[Policy-making and evaluation](https://digineb.eu/podcasts/policy-making-and-evaluation)</kbd>
+<kbd>[Resource management and efficiency](https://digineb.eu/podcasts/resource-management-and-efficiency)</kbd>

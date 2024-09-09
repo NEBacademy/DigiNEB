@@ -19,7 +19,7 @@ show_sidebar: false
 <iframe title="digineb" width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1908090572&color=%234b4815&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=false"></iframe>
 <kbd>[New European Bauhaus](https://digineb.eu/podcasts/new-european-bauhaus)</kbd>
 <kbd>[Sustainability](https://digineb.eu/podcasts/sustainability)</kbd>
-Building materials and techniques;
-Environmental conservation;
-Circular economy;
-Digitalization and innovation;
+<kbd>[Building materials and techniques](https://digineb.eu/podcasts/building-materials-and-techniques)</kbd>
+<kbd>[Environmental conservation](https://digineb.eu/podcasts/environmental-conservation)</kbd>
+<kbd>[Circular economy](https://digineb.eu/podcasts/circular-economy)</kbd>
+<kbd>[Digitalization and innovation](https://digineb.eu/podcasts/digitalization-and-innovation)</kbd>

@@ -17,9 +17,9 @@ show_sidebar: false
 ---
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1908130253&color=%234b4815&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=false"></iframe>
-Technology integration;
+<kbd>[Technology integration](https://digineb.eu/podcasts/technology-integration)</kbd>
 <kbd>[Sustainability](https://digineb.eu/podcasts/sustainability)</kbd>
-Urban design and development;
-Cultural heritage and diversity;
-Adaptability;
+<kbd>[Urban design and development](https://digineb.eu/podcasts/urban-design-and-development)</kbd>
+<kbd>[Cultural heritage and diversity](https://digineb.eu/podcasts/cultural-heritage-and-diversity)</kbd>
+<kbd>[ Adaptability](https://digineb.eu/podcasts/adaptability)</kbd>
 <kbd>[New European Bauhaus](https://digineb.eu/podcasts/new-european-bauhaus)</kbd>

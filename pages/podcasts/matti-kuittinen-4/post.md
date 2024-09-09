@@ -18,8 +18,7 @@ show_sidebar: false
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1908125390&color=%234b4815&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=false"></iframe>
 <kbd>[Sustainability](https://digineb.eu/podcasts/sustainability)</kbd>
-Resource management and efficiency;
-Lifecycle thinking and long-term planning;
-European collaboration and policy;
+<kbd>[Resource management and efficiency](https://digineb.eu/podcasts/resource-management-and-efficiency)</kbd><kbd>[Lifecycle thinking and long-term planning](https://digineb.eu/podcasts/lifecycle-thinking-and-long-term-planning)</kbd>
+<kbd>[European collaboration and policy](https://digineb.eu/podcasts/european-collaboration-and-policy)</kbd>
 <kbd>[New European Bauhaus](https://digineb.eu/podcasts/new-european-bauhaus)</kbd>
-Human-centered design;
+<kbd>[Human-centered design](https://digineb.eu/podcasts/human-centered-design)</kbd>
