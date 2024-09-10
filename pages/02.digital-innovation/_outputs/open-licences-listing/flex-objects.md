@@ -10,16 +10,6 @@ hero:
         - '0.8'
         - '0.1'
     overlay_direction: right
-root_of_blog: true
-content:
-    items:
-        - '@self.children'
-    limit: 10
-    order:
-        by: folder
-        dir: desc
-feed:
-    limit: 10
 header_bar:
     background: dark
 show_sidebar: false
