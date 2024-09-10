@@ -4,4 +4,4 @@ sitemap:
     lastmod: '10-09-2024 08:19'
 ---
 
-[plugin:page-inject](/home)
+[plugin:page-inject](/01.news_events)
