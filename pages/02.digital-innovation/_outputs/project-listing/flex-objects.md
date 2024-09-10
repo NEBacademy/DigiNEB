@@ -24,4 +24,3 @@ sitemap:
     lastmod: '19-07-2024 13:56'
 ---
 
-[plugin:page-inject](/digital-innovation/_outputs/)
