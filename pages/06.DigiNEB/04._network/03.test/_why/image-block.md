@@ -1,5 +1,4 @@
 ---
-menu: strike
 title: ' "We can complain all we want about the ''big 5'', but it is our own actions that keep us locked in..."'
 columns: 3
 subtitle: 'the global academic review strike'
