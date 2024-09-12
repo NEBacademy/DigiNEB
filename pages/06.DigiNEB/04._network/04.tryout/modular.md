@@ -1,11 +1,12 @@
 ---
 title: Tryout
 hero:
-    image: 'R2Rstrike 3.webp'
-    display: true
-    overlay: dark
+    image: Hammer-Havn.webp
+    title:
+        text: Try
 sitemap:
     lastmod: '12-09-2024 13:00'
+media_order: 'R2Rstrike 3.webp,Hammer-Havn.webp'
 ---
 
 B
