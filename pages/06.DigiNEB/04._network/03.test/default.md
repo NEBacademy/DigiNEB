@@ -5,26 +5,6 @@ sitemap:
     lastmod: '24-07-2024 20:46'
 show_sidebar: true
 show_breadcrumbs: true
-show_pagination: true
-root_of_blog: true
-modular_content:
-    items: '@self.modular'
-    order:
-        by: folder
-        dir: asc
-content:
-    items:
-        - self@.children
-    limit: 12
-    order:
-        by: date
-        dir: desc
-    pagination: true
-    url_taxonomy_filters: true
-feed:
-    limit: 10
-    description: 'DigiNEB News & Events'
-    title: 'News & Events'
 header_bar:
     background: transparent
     text: auto
