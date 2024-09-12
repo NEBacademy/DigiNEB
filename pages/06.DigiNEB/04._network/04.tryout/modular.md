@@ -1,7 +1,7 @@
 ---
 title: Tryout
 hero:
-    image: 'R2Rstrike 3.webp'
+    image: podcasts.webp
     title: {  }
     display: true
     overlay: dark
