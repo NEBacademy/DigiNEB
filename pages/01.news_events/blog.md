@@ -7,11 +7,6 @@ show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
 root_of_blog: true
-modular_content:
-    items: '@self.modular'
-    order:
-        by: folder
-        dir: asc
 content:
     items:
         - self@.children
