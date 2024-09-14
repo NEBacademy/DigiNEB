@@ -14,4 +14,4 @@ content:
     pagination: true
 ---
 
-[plugin:page-inject](/news_events)
+[plugin:content-inject](/news_events)
