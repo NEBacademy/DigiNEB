@@ -24,14 +24,6 @@ content:
         dir: asc
 feed:
     limit: 10
-ai:
-    items:
-        -
-            '@page': /news_events
-    limit: 64
-    order:
-        by: folder
-        dir: asc
 show_sidebar: false
 ---
 
