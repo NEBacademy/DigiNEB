@@ -14,4 +14,4 @@ content:
     pagination: true
 ---
 
-[content-inject path="/news_events"]
+[content-inject=/news_events]
