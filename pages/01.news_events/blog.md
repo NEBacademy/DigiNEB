@@ -7,15 +7,7 @@ show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
 root_of_blog: true
-intro:
-    items:
-        - intro
-    limit: 12
-    order:
-        by: date
-        dir: desc
-    url_taxonomy_filters: true
-content:
+modular_content:
     items:
         - self@.children
     limit: 12
