@@ -24,6 +24,13 @@ content:
         dir: asc
 feed:
     limit: 10
+ai:
+    items:
+        - '@self.children'
+    limit: 64
+    order:
+        by: folder
+        dir: asc
 show_sidebar: false
 ---
 
