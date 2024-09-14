@@ -1,5 +1,9 @@
 {% extends 'partials/base.html.twig' %}
 
 {% block content %}
+{% for p in page.collection %}
+<h2>{{ p.title }}</h2>
+{{ p.summary }}
+{% endfor %}
   {{ page.content|raw }}
 {% endblock %}
