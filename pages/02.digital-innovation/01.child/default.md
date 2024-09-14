@@ -14,4 +14,4 @@ content:
     pagination: true
 ---
 
-[plugin:page-inject](/digital-innovation/_outputs/digital-tools-listing)
+[plugin:content-inject](/digital-innovation/_outputs/digital-tools-listing)
