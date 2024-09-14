@@ -7,6 +7,14 @@ show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
 root_of_blog: true
+intro:
+    items:
+        - intro
+    limit: 12
+    order:
+        by: date
+        dir: desc
+    url_taxonomy_filters: true
 content:
     items:
         - self@.children
@@ -15,14 +23,6 @@ content:
         by: date
         dir: desc
     pagination: true
-    url_taxonomy_filters: true
-intro:
-    items:
-        - intro
-    limit: 12
-    order:
-        by: date
-        dir: desc
     url_taxonomy_filters: true
 header_bar:
     background: transparent
