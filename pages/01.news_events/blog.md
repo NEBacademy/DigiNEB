@@ -18,7 +18,7 @@ content:
     url_taxonomy_filters: true
 modular_content:
     items:
-        '@taxonomy.partners':
+        '@taxonomy.podcast':
             - tu_delft
     limit: 10
     order:
