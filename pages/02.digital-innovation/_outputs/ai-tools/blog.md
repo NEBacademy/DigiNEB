@@ -26,7 +26,8 @@ feed:
     limit: 10
 ai:
     items:
-        - '@self.children'
+        -
+            '@page': /news_events
     limit: 64
     order:
         by: folder
