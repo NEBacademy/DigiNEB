@@ -6,7 +6,7 @@ show_children_in_secondary_menu: false
 published: true
 content:
     items:
-        '@page': /news_events
+        '@page': /digital-innovation/_outputs/ai-tools
     order:
         by: date
         dir: desc

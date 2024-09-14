@@ -2,7 +2,7 @@
 
 {% block content %}
 {% for p in page.collection %}
-<h2><a>{{ p.title|e }}</a></h2>
+<h3><a href="{{ p.url }}">{{ p.title|e }}</a></h3>
 {{ p.summary|raw }}
 {% endfor %}
   {{ page.content|raw }}
