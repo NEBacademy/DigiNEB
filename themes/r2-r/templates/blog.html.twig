@@ -24,6 +24,10 @@
     {% block items %}
 
       <div class="flex flex-wrap -mx-4">
+		{% set intro_collection = page.collection('intro') %}
+	  </div>
+
+      <div class="flex flex-wrap -mx-4">
         {% for post in collection %}
           {% include "partials/post-item.html.twig" with {page: post} %}
         {% endfor %}
