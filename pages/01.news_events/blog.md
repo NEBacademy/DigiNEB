@@ -7,15 +7,6 @@ show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
 root_of_blog: true
-content:
-    items:
-        - self@.children
-    limit: 12
-    order:
-        by: date
-        dir: desc
-    pagination: true
-    url_taxonomy_filters: true
 feed:
     limit: 10
     description: 'DigiNEB News & Events'
