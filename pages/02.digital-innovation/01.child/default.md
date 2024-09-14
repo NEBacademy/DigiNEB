@@ -14,4 +14,4 @@ content:
     pagination: true
 ---
 
-[page-inject path="/digital-innovation/_outputs/digital-tools-listing"]
+[page-inject path="/news_events"]
