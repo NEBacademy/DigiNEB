@@ -16,6 +16,15 @@ content:
         dir: desc
     pagination: true
     url_taxonomy_filters: true
+modular_content:
+    items:
+        '@taxonomy.partners':
+            - tu_delft
+    limit: 10
+    order:
+        by: date
+        dir: desc
+    pagination: '1'
 header_bar:
     background: transparent
     text: auto
