@@ -10,6 +10,7 @@ root_of_blog: true
 content:
     items:
         - self@.children
+        - 'Frank van der Hoeven'
     limit: 12
     order:
         by: date
