@@ -17,7 +17,7 @@ content:
     pagination: true
     url_taxonomy_filters: true
 header_bar:
-    background: transparent
+    background: dark
     text: auto
 hero:
     image: home.webp
@@ -41,5 +41,7 @@ hero:
             classes: 'bg-primary text-white hover:text-black'
 media_order: 'timber_on_top_d-1.jpg,paul-cocksedge-time-loop.png,home.webp,e-learning_animation.gif'
 published: true
+feed:
+    limit: 10
 ---
 
