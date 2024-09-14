@@ -19,7 +19,7 @@ content:
 modular_content:
     items:
         '@taxonomy.podcast':
-            - tu_delft
+            - 'Frank van der Hoeven'
     limit: 10
     order:
         by: date
