@@ -16,10 +16,6 @@ content:
         dir: desc
     pagination: true
     url_taxonomy_filters: true
-feed:
-    limit: 10
-    description: 'DigiNEB News & Events'
-    title: 'News & Events'
 header_bar:
     background: transparent
     text: auto
