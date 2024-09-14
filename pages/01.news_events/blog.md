@@ -16,6 +16,14 @@ content:
         dir: desc
     pagination: true
     url_taxonomy_filters: true
+intro:
+    items:
+        - intro
+    limit: 12
+    order:
+        by: date
+        dir: desc
+    url_taxonomy_filters: true
 header_bar:
     background: transparent
     text: auto
