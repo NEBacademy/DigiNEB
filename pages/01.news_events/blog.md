@@ -16,6 +16,9 @@ content:
         dir: desc
     pagination: true
     url_taxonomy_filters: true
+ai:
+    items:
+        '@page': /digital-innovation/_outputs/ai-tools
 header_bar:
     background: transparent
     text: auto
