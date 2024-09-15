@@ -8,5 +8,7 @@ features:
         text: test
         icon: null
         link: null
+sitemap:
+    lastmod: '15-09-2024 15:05'
 ---
 
