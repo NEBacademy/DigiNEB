@@ -5,9 +5,6 @@ hero:
     image: NEB_Facility_Scoping_document__final_.jpg
 sitemap:
     lastmod: '03-09-2024 12:15'
-taxonomy:
-    tag:
-        - blog
 ---
 
 Contribute to the consultation initiated by the European Commissionon on defining the content of the New European Bauhaus Facility by giving feedback on the [Questionnaire on the next NEB Facility](https://ec.europa.eu/eusurvey/runner/NEBFacility#page0), which addresses two components: 
