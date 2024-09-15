@@ -44,4 +44,3 @@ published: true
 feed:
     limit: 10
 ---
-
