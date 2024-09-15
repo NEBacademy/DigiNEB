@@ -3,6 +3,11 @@ title: 'Aase Højlund Nielsen'
 published: true
 visible: true
 hide_page_title: false
+modular_content:
+    items: '@self.modular'
+    order:
+        by: folder
+        dir: asc
 content:
     items:
         '@taxonomy.podcast':
