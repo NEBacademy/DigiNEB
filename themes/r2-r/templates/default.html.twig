@@ -6,4 +6,19 @@
 {{ p.summary|raw }}
 {% endfor %}
   {{ page.content|raw }}
+
+{% for p in page.collection %}
+<div class="card">
+<div class="card-header">
+    <div class="card-title">
+    <a href="{{ p.url }}">{{ p.title }}</a>
+    </div>
+</div>
+<div class="card-body">
+    {{ p.summary }}
+</div>
+</div>
+{% endfor %}
+
+
 {% endblock %}
