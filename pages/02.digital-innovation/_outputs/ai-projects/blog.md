@@ -12,6 +12,11 @@ hero:
         - '0.1'
     overlay_direction: right
     subtitle: '<br /><br /><br /><br />'
+    buttons:
+        -
+            text: 'AI tools'
+            link: ' /digital-innovation/_outputs/ai-tools'
+            classes: 'bg-primary text-white hover:text-black'
 sitemap:
     lastmod: '14-07-2024 18:10'
 root_of_blog: true
