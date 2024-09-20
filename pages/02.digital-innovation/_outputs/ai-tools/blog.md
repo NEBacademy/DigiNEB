@@ -12,6 +12,11 @@ hero:
         - '0.0'
     overlay_direction: right
     subtitle: '<br /><br /><br /><br />'
+    buttons:
+        -
+            text: 'AI projects'
+            link: 'digital-innovation/_outputs/ai-projects '
+            classes: 'bg-primary text-white hover:text-black'
 sitemap:
     lastmod: '14-07-2024 18:10'
 root_of_blog: true
