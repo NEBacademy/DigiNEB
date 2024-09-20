@@ -11,6 +11,11 @@ hero:
     overlay_gradient:
         - '0.8'
         - '0.1'
+    buttons:
+        -
+            text: 'Digital tool collection'
+            link: digital-innovation/_outputs/tools
+            classes: 'bg-primary text-white hover:text-black'
 taxonomy:
     tag:
         - energy
