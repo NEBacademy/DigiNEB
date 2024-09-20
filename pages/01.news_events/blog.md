@@ -36,12 +36,12 @@ hero:
             link: digital-innovation/_outputs/ai-tools
             classes: 'bg-primary text-white hover:text-black'
         -
-            text: 'DigiNEB Podcasts'
-            link: podcasts/
-            classes: 'bg-primary text-white hover:text-black'
-        -
             text: 'Digital tools'
             link: digital-innovation/_outputs/digital-tools-listing
+            classes: 'bg-primary text-white hover:text-black'
+        -
+            text: 'DigiNEB Podcasts'
+            link: podcasts/
             classes: 'bg-primary text-white hover:text-black'
 media_order: 'timber_on_top_d-1.jpg,paul-cocksedge-time-loop.png,home.webp,e-learning_animation.gif'
 published: true
