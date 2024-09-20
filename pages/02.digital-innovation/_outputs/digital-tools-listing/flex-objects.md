@@ -13,7 +13,7 @@ hero:
         - '0.1'
     buttons:
         -
-            text: 'Digital tool collection'
+            text: 'Digital tool collections'
             link: digital-innovation/_outputs/tools
             classes: 'bg-primary text-white hover:text-black'
 taxonomy:
