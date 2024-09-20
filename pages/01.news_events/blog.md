@@ -33,7 +33,7 @@ hero:
     buttons:
         -
             text: 'AI tools'
-            link: 'https://digineb.eu/digital-innovation/_outputs/ai-tools'
+            link: digital-innovation/_outputs/ai-tools
             classes: 'bg-primary text-white hover:text-black'
         -
             text: 'DigiNEB Podcasts'
