@@ -37,7 +37,7 @@ hero:
             classes: 'bg-primary text-white hover:text-black'
         -
             text: 'DigiNEB Podcasts'
-            link: 'https://digineb.eu/podcasts/'
+            link: podcasts/
             classes: 'bg-primary text-white hover:text-black'
         -
             text: 'Digital tools'
