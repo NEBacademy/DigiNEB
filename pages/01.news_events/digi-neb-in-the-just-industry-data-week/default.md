@@ -2,7 +2,7 @@
 title: 'DIGI NEB in the JUST Industry Data Week'
 sitemap:
     lastmod: '23-09-2024 09:24'
-media_order: 'AI literacy digital working group.PNG,Trustworthy AI.PNG'
+media_order: 'AI literacy digital working group.PNG'
 hero:
     image: 'Trustworthy AI.PNG'
     alignment: left
