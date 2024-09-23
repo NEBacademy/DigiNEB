@@ -4,7 +4,7 @@ sitemap:
     lastmod: '23-09-2024 09:24'
 media_order: 'AI literacy digital working group.PNG'
 hero:
-    image: 'Trustworthy AI.PNG'
+    image: 'AI literacy digital working group.PNG'
     alignment: left
 ---
 
