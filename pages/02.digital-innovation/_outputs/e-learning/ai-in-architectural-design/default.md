@@ -9,4 +9,4 @@ hero:
 
 ### [AI in Architectural Design: Introduction](https://online-learning.tudelft.nl/courses/ai-in-architectural-design/)
 
-# Learn about the elements of AI, machine learning and computer vision. Discover the open-source AI tools, and hidden AI gems. Learn how to play with architectural design data using freely available AI model.
+# Course on the elements of AI, machine learning and computer vision using open-source AI tools. Incorporating architectural design data using freely available AI model.
