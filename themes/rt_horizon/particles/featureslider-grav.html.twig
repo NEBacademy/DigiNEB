@@ -1,0 +1,77 @@
+{# Load Content From Grav #}
+{% set attr_extra = particle.extra|attribute_array %}
+{% set article_settings = particle.article %}
+{% set filter = article_settings.filter %}
+{% set sort = article_settings.sort %}
+{% set limit = article_settings.limit %}
+{% set start = limit.start %}
+{% set display = article_settings.display %}
+{% set categories = filter.categories|split(' ') %}
+{% set collection = grav.page.collection(
+    {
+        items: {'@taxonomy.category': categories},
+        order: {by: sort.orderby, dir: sort.ordering},
+        url_taxonomy_filters: false
+    },
+    false) %}
+{% set total = collection.count() %}
+{% set pages = collection.slice(start, limit.total) %}
+
+<div id="{{ id }}" data-featureslider-id="{{ id }}" class="g-featureslider-wrapper" {% if particle.height %} style="min-height: {{ particle.height }}px;" {% endif %}>
+    <div class="g-featureslider swiper-container area {{ particle.class|e }}" data-featureslider-autoplay="{% if particle.autoplay == "enabled" %}true{% else %}false{% endif %}" data-featureslider-loop="{% if particle.loop == "enabled" %}true{% else %}false{% endif %}" data-featureslider-timeout="{{ particle.autoplayTimeout }}" data-featureslider-speed="{{ particle.speed }}" data-featureslider-touchmove="{% if particle.touchmove == "enabled" %}true{% else %}false{% endif %}" data-featureslider-touchmovetabs="{% if particle.touchmovetabs == "enabled" %}true{% else %}false{% endif %}" {% if gantry.page.direction == 'rtl' %} dir="rtl" {% endif %}>
+        <div class="g-featureslider-carousel swiper-wrapper">
+            
+            {% for page in pages %}
+                {% if display.image.enabled %}
+                    {% if display.image.enabled == 'intro' %}
+                        {% set file = page.header.image.summary.enabled|defined(false) ? (page.header.image.summary.file ?: true) %}
+                    {% elseif display.image.enabled == 'full' %}
+                        {% set file = page.header.image.text.enabled|defined(false) ? (page.header.image.text.file ?: true) %}
+                    {% endif %}
+
+                    {% set image = file is same as(true) ? page.media.images|first : (file ? page.media.images[file]) %}
+                {% endif %}
+
+                <div class="swiper-slide">
+                    <div class="slide">
+                        <div class="g-featureslider-carousel-content-wrapper">
+                            {% if display.image.enabled %}
+                                <img src="{{ url(image.url)|e }}" alt="{{ page.title }}"/>
+                            {% endif %}
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+    <div class="g-featureslider-thumbs swiper-container thumbs">
+        <div class="swiper-wrapper">
+                {% for page in pages %}
+                <div class="swiper-slide">
+                    <div class="slide">
+                        <div class="g-featureslider-thumbs-content">
+                            <div class="g-featureslider-thumbs-content-title">
+                                <span>+</span>
+                                {% if display.title.enabled and page.title %}
+                                    {{ (display.title.limit ? page.title|e|truncate_text(display.title.limit) : page.title|e)|raw }}
+                                {% endif %}
+                            </div>
+
+                    {% if display.text.type %}
+                        {% set page_text = display.text.type == 'intro' ? page.summary : page.content %}
+                            <div class="g-featureslider-thumbs-content-description">
+                                {% if display.text.formatting == 'text' %}
+                                    {{ page_text|truncate_text(display.text.limit)|raw }}
+                                {% else %}
+                                    {{ page_text|truncate_html(display.text.limit)|raw }}
+                                {% endif %}
+                            </div>
+                        {% endif %}
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+

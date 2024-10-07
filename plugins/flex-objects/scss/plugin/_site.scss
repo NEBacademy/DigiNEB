@@ -29,17 +29,81 @@
 
     li {
       display: inline-grid;
-      width: 33%;
-      margin: 1rem 0;
+      width: 30%;
+      margin: 1rem 0.5rem;
+      padding: 0 1rem 1rem 1rem;
+
+      &:nth-child(10n+1) {
+        background: lightsteelblue;   
+        @media(min-width: @screen-desktop)
+          {background: lightsteelblue;}
+      }
+      &:nth-child(10n+2) {
+        background: #ffcc80;
+        @media(min-width: @screen-desktop)
+          {background: lightsteelblue;}
+      }
+      &:nth-child(10n+3) {
+        background: #ce93d8;    
+        @media(min-width: @screen-desktop)
+          {background: lightsteelblue;}
+      }
+      &:nth-child(10n+4) {
+        background: #a5d6a7;
+        @media(min-width: @screen-desktop)
+          {background: lightsteelblue;}
+      }
+      &:nth-child(10n+5) {
+        background: #bcaaa4;    
+        @media(min-width: @screen-desktop)
+          {background: lightsteelblue;}
+      }
+      &:nth-child(10n+6) {
+        background: #b0bec5;
+        @media(min-width: @screen-desktop)
+          {background: lightsteelblue;}
+      }
+      &:nth-child(10n+7) {
+        background: #ffab91;    
+        @media(min-width: @screen-desktop)
+          {background: lightsteelblue;}
+      }
+      &:nth-child(10n+8) {
+        background: #80deea;    
+        @media(min-width: @screen-desktop)
+          {background: lightsteelblue;}
+      }
+      &:nth-child(10n+9) {
+        background: #80cbc4;
+        @media(min-width: @screen-desktop)
+          {background: lightsteelblue;}
+      }
+      &:nth-child(10n+10) {
+        background: #81d4fa;
+        @media(min-width: @screen-desktop)
+          {background: lightsteelblue;}
+      }
 
       .entry-details {
 
+        h3 {
+          border-bottom: 2px solid #ffffff;
+          line-height: 1;
+        }
+        h3 a {
+          color: #000000;
+        }
+        h3 a:hover {
+          color: #ffffff;
+          line-height: 1;
+        }
         .name {
           font-weight: bold;
-          font-size: 120%;
+          font-size: 100%;
         }
         p {
           margin: 0;
+          font-weight: 600;
         }
       }
 
@@ -49,6 +113,9 @@
           border-radius: 4px;
           padding: 3px 5px;
           font-size: 85%;
+           .synopsis { 
+              padding-bottom: 1rem;
+          }
         }
       }
     }
@@ -57,7 +124,7 @@
 
 @media only screen and (max-width: 800px) {
   #flex-objects ul li {
-    width: 50%;
+    width: 47%;
   }
 }
 

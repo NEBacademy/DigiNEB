@@ -1,4 +1,0 @@
----
-title: 'Sten-Erik Björling'
----
-

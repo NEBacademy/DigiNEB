@@ -1,0 +1,7 @@
+.g-popupmodule-module-wrapper {
+    display: none;
+
+    .lightcase-open & {
+        display: block;
+    }
+}

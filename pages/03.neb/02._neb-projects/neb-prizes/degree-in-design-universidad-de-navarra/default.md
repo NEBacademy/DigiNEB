@@ -1,4 +1,0 @@
----
-title: 'DEGREE IN DESIGN UNIVERSIDAD DE NAVARRA'
----
-

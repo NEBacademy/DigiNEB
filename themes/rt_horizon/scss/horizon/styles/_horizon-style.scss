@@ -1,0 +1,8 @@
+.g-style-preset6 {
+    .g-slider .g-slider-carousel-content a {
+        color: lighten($accent-color-2, 50%);
+        &:hover {
+            color: lighten($accent-color-2, 30%);
+        }
+    }
+}

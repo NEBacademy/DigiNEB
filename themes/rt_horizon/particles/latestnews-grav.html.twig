@@ -1,0 +1,96 @@
+{# Load Content From Grav #}
+{% set attr_extra = particle.extra|attribute_array %}
+{% set article_settings = particle.article %}
+{% set filter = article_settings.filter %}
+{% set sort = article_settings.sort %}
+{% set limit = article_settings.limit %}
+{% set start = limit.start %}
+{% set display = article_settings.display %}
+{% set categories = filter.categories|split(' ') %}
+{% set collection = grav.page.collection(
+    {
+        items: {'@taxonomy.category': categories},
+        order: {by: sort.orderby, dir: sort.ordering},
+        url_taxonomy_filters: false
+    },
+    false) %}
+{% set total = collection.count() %}
+{% set pages = collection.slice(start, limit.total) %}
+
+<div class="g-latestnews-header">
+    {% if particle.title %}
+        <div class="g-latestnews-title">
+            {% if particle.uppertitle %}
+                <span class="g-latestnews-uppertitle">{{ particle.uppertitle|raw }}</span>
+            {% endif %}
+            {{ particle.title }}
+        </div>
+    {% endif %}
+</div>
+
+<div class="g-latestnews-grid {{ particle.cols }}">
+    <div class="g-latestnews-grid-sizer"></div>
+    {% for page in pages %}
+        {% if display.image.enabled %}
+            {% if display.image.enabled == 'intro' %}
+                {% set file = page.header.image.summary.enabled|defined(false) ? (page.header.image.summary.file ?: true) %}
+            {% elseif display.image.enabled == 'full' %}
+                {% set file = page.header.image.text.enabled|defined(false) ? (page.header.image.text.file ?: true) %}
+            {% endif %}
+
+            {% set image = file is same as(true) ? page.media.images|first : (file ? page.media.images[file]) %}
+        {% endif %}
+
+        <div class="g-latestnews-grid-item" data-groups='[{% for c in categories %}"{{ c }}"{{ not loop.last ? "," }}{% endfor %}]'>
+            <div class="g-latestnews-grid-item-wrapper">
+                {% if display.image.enabled %}
+                    <div class="g-latestnews-grid-item-image">
+
+                        <img src="{{ image.url }}" alt="{{ page.title|e }}"/>
+                    </div>
+                {% endif %}
+
+                <div class="g-latestnews-grid-item-content">
+                    {% if display.title.enabled and page.title %}
+                        <div class="g-latestnews-grid-item-title">
+                            <span>{{ (display.title.limit ? page.title|e|truncate_text(display.title.limit) : page.title|e)|raw }}</span>
+                        </div>
+                    {% endif %}
+
+                    {% if display.text.type %}
+                        {% set page_text = display.text.type == 'intro' ? page.summary : page.content %}
+                        <div class="g-latestnews-grid-item-description">
+                            {% if display.text.formatting == 'text' %}
+                                {{ page_text|truncate_text(display.text.limit)|raw }}
+                            {% else %}
+                                {{ page_text|truncate_html(display.text.limit)|raw }}
+                            {% endif %}
+                        </div>
+                    {% endif %}
+
+                    {% if display.date.enabled %}
+                        <div class="g-latestnews-grid-item-date">
+                            <span class="g-array-item-date">
+                                {% if display.date.enabled == 'published' %}
+                                    <i class="fa fa-clock-o" aria-hidden="true"></i>
+                                    {{ page.publishDate()|date(display.date.format) }}
+                                {% elseif display.date.enabled == 'modified' %}
+                                    <i class="fa fa-clock-o" aria-hidden="true"></i>
+                                    {{ page.modified|date(display.date.format) }}
+                                {% else %}
+                                    <i class="fa fa-clock-o" aria-hidden="true"></i>
+                                    {{ page.date|date(display.date.format) }}
+                                {% endif %}
+                            </span>
+                        </div>
+                    {% endif %}
+                </div>
+
+                {% if display.read_more.enabled %}
+                    <a href="{{ page.url|e }}" target="{{ display.read_more.target|default('_self')|e }}" class="g-latestnews-link-overlay"></a>
+                {% endif %}
+            </div>
+        </div>
+    {% endfor %}
+</div>
+
